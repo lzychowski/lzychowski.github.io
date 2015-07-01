@@ -2,6 +2,8 @@ $font-page-title: Titillium Web, sans-serif;
 $font-article-title: Open Sans, sans-serif;
 $color-page-title: #fff;
 
+$break-medium: 433px;
+
 body {
 	background: #333;
 	margin: 0;
@@ -17,7 +19,30 @@ body {
 header {
 
 	margin: 20px 0 30px 0;
-	display: inline-block;
+
+	@media screen and (min-width: $break-medium){
+		display: inline-block;
+	}
+
+	div {
+		@media screen and (min-width: $break-medium){
+			float: left;
+		}
+	}
+
+	div:first-child{
+		@media screen and (max-width: $break-medium){
+			margin: 0 auto;
+			width: 185px;
+		}
+	}
+
+	div:last-child{
+		@media screen and (max-width: $break-medium){
+			margin: 0 auto;
+			width: 206px;
+		}
+	}
 
 	h1, h2 {
 		color: $color-page-title;
@@ -38,13 +63,15 @@ header {
 	}
 
 	.name {
+	  @media screen and (min-width: $break-medium){
 		margin-top: 70px;
+	  }
 	}
 }
 
 .float-left {
-	float: left;
-}
+	 float: left;
+ }
 
 .yolo {
 	/*5color: #3366ff;*/
