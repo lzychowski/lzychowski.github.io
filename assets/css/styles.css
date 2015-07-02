@@ -22,7 +22,7 @@ header {
   @media screen and (max-width: 433px) {
     header div:last-child {
       margin: 0 auto;
-      width: 206px; } }
+      width: 208px; } }
   header h1, header h2 {
     color: #fff;
     margin: 0; }
