@@ -1,5 +1,5 @@
 ---
-title: My Second Post
+title: Talisman Board Game Review
 author: Leszek
 layout: post
 permalink: /my-second-post

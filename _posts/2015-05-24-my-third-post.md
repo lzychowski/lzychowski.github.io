@@ -1,5 +1,5 @@
 ---
-title: My Third Post
+title: TypeScript and Angular.js Dependency Injection
 author: Leszek
 layout: post
 permalink: /my-third-post

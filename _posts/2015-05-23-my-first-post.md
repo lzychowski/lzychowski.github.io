@@ -1,5 +1,5 @@
 ---
-title: My First Post
+title: Setting up Github Jekyll blog
 author: Leszek
 layout: post
 permalink: /my-first-post

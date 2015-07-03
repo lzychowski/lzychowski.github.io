@@ -1,5 +1,6 @@
 body {
-  background: #333;
+  background: #2e374a;
+  background-image: url("../images/cross.png");
   margin: 0;
   font: 100% Open Sans, sans-serif; }
   body .body-container {
@@ -42,22 +43,25 @@ header {
 
 .yolo {
   /*5color: #3366ff;*/
-  color: red; }
+  color: #e27507; }
 
 .article-section-container {
   padding: 30px 30px;
   background: #f1f1f1; }
 
-section article {
-  margin-bottom: 20px; }
-  section article a {
-    text-decoration: none;
-    color: #000; }
-  section article a:hover {
-    color: #555; }
-  section article h2 {
-    margin: 0; }
-  section article span {
-    font-size: 80%; }
+section {
+  font-family: 'Montserrat', sans-serif; }
+  section article {
+    margin-bottom: 20px; }
+    section article a {
+      text-decoration: none;
+      color: #000; }
+    section article a:hover {
+      color: #555; }
+    section article h2 {
+      margin: 0; }
+    section article span {
+      font-size: 80%;
+      border-bottom: 1px solid #ccc; }
 
 /*# sourceMappingURL=styles.css.map */
