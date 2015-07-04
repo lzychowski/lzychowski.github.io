@@ -1,12 +1,13 @@
 $font-page-title: Titillium Web, sans-serif;
 $font-article-title: Open Sans, sans-serif;
-$color-page-title: #fff;
+$color-page-title: #000;
 
 $break-medium: 433px;
 
 body {
-	background: #2e374a;
-	background-image: url("../images/cross.png");
+	/*background: #2e374a;*/
+	background: #f1f1f1;
+	/*background-image: url("../images/cross.png");*/
 	margin: 0;
 	font: 100% $font-article-title;
 
@@ -76,7 +77,7 @@ header {
 
 .yolo {
 	/*5color: #3366ff;*/
-  	color: rgb(226, 117, 7);
+  	color: #E00A0A;
 }
 
 .article-section-container {
