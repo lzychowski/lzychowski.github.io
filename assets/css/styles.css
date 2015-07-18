@@ -3,8 +3,6 @@ body {
   background: #B8B8B8;
   background-image: url("../images/bg.png");
   background-repeat: no-repeat;
-  /*background-size:contain;
-  background-position:center;*/
   margin: 0;
   font: 100% Open Sans, sans-serif; }
   body .body-container {

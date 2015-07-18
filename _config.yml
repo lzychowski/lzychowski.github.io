@@ -1,0 +1,3 @@
+paginate: 10
+highlighter: pygments
+markdown: maruku
