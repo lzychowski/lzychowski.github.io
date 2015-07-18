@@ -1,7 +1,10 @@
 body {
   /*background: #2e374a;*/
-  background: #f1f1f1;
-  /*background-image: url("../images/cross.png");*/
+  background: #B8B8B8;
+  background-image: url("../images/bg.png");
+  background-repeat: no-repeat;
+  /*background-size:contain;
+  background-position:center;*/
   margin: 0;
   font: 100% Open Sans, sans-serif; }
   body .body-container {
@@ -28,13 +31,24 @@ header {
   header h1, header h2 {
     color: #000;
     margin: 0; }
-  header h1 {
-    font: 250% Titillium Web, sans-serif;
-    font-weight: 900; }
-  header h2 {
-    font: 100% Titillium Web, sans-serif;
-    font-weight: 400;
-    margin-top: -10px; }
+  @media screen and (min-width: 575px) {
+    header h1 {
+      font: 400% Titillium Web, sans-serif;
+      font-weight: 900; } }
+  @media screen and (max-width: 575px) {
+    header h1 {
+      font: 250% Titillium Web, sans-serif;
+      font-weight: 900; } }
+  @media screen and (min-width: 575px) {
+    header h2 {
+      font: 150% Titillium Web, sans-serif;
+      font-weight: 400;
+      margin-top: -25px; } }
+  @media screen and (max-width: 575px) {
+    header h2 {
+      font: 100% Titillium Web, sans-serif;
+      font-weight: 900;
+      margin-top: -15px; } }
   @media screen and (min-width: 433px) {
     header .name {
       margin-top: 70px; } }
@@ -48,7 +62,7 @@ header {
 
 .article-section-container {
   padding: 30px 30px;
-  background: #f1f1f1; }
+  /*background: #f1f1f1;*/ }
 
 section {
   font-family: 'Montserrat', sans-serif; }

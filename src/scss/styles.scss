@@ -3,11 +3,15 @@ $font-article-title: Open Sans, sans-serif;
 $color-page-title: #000;
 
 $break-medium: 433px;
+$break-medium-large-text: 575px;
 
 body {
 	/*background: #2e374a;*/
-	background: #f1f1f1;
-	/*background-image: url("../images/cross.png");*/
+	background: #B8B8B8;
+	background-image: url("../images/bg.png");
+	background-repeat:no-repeat;
+	/*background-size:contain;
+	background-position:center;*/
 	margin: 0;
 	font: 100% $font-article-title;
 
@@ -54,14 +58,29 @@ header {
 	}
 
 	h1 {
-		font: 250% $font-page-title;
-		font-weight: 900;
+
+		@media screen and (min-width: $break-medium-large-text){
+			font: 400% $font-page-title;
+			font-weight: 900;
+		}
+		@media screen and (max-width: $break-medium-large-text){
+			font: 250% $font-page-title;
+			font-weight: 900;
+		}
+
 	}
 
 	h2 {
-		font: 100% $font-page-title;
-		font-weight: 400;
-		margin-top: -10px;
+		@media screen and (min-width: $break-medium-large-text){
+			font: 150% $font-page-title;
+			font-weight: 400;
+			margin-top: -25px;
+		}
+		@media screen and (max-width: $break-medium-large-text){
+			font: 100% $font-page-title;
+			font-weight: 900;
+			margin-top: -15px;
+		}
 	}
 
 	.name {
@@ -82,7 +101,7 @@ header {
 
 .article-section-container {
 	padding: 30px 30px;
-	background: #f1f1f1;
+	/*background: #f1f1f1;*/
 }
 
 section {
@@ -90,6 +109,7 @@ section {
 	font-family: 'Montserrat', sans-serif;
 
 	article {
+
 		margin-bottom: 20px;
 
 		a {
