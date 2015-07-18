@@ -1,6 +1,7 @@
 $font-page-title: Titillium Web, sans-serif;
 $font-article-title: Open Sans, sans-serif;
 $color-page-title: #000;
+$color-logo: #E00A0A;
 
 $break-medium: 433px;
 $break-medium-large-text: 575px;
@@ -96,7 +97,7 @@ header {
 
 .yolo {
 	/*5color: #3366ff;*/
-  	color: #E00A0A;
+  	color: $color-logo;
 }
 
 .article-section-container {
@@ -132,7 +133,7 @@ section {
 		span {
 			//margin-top: -20px;
 			font-size: 80%;
-			border-bottom: 1px solid #ccc;
+			border-bottom: 1px solid $color-logo;
 		}
 	}
 }
