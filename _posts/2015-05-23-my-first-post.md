@@ -9,20 +9,11 @@ path: 2015-05-23-my-first-post.md
 My name is Bean and this is my first post :0)
 
 {% highlight javascript linenos %}
-function MainCtrl () {
-
-  var vm = this;
-
-  function doSomething() {
-
-  }
-
-  // exports
-  vm.doSomething = doSomething;
-
+function Add(number1, number2){
+	return number1 + number2;
 }
 
-angular
-  .module('app')
-  .controller('MainCtrl', MainCtrl);
+Console.log("5 + 6 = " + Add(5,6));
+
+// Above will display the result of adding 5 and 6 in the browser's console
 {% endhighlight %}
