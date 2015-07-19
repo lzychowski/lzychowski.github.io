@@ -8,7 +8,7 @@ path: 2015-05-23-my-first-post.md
 
 My name is Bean and this is my first post :0)
 
-{% highlight javascript %}
+{% highlight javascript linenos %}
 function MainCtrl () {
 
   var vm = this;
