@@ -1,3 +1,4 @@
 paginate: 10
 highlighter: pygments
-markdown: maruku
+host: http://yolonerds.com
+port: 80

@@ -7,8 +7,8 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>{{ page.title }}</title>
-		<!--<base href="http://localhost:4000/">-->
-		<base href="http://yolonerds.com/">
+		<!--<base href="http://yolonerds.com">-->
+		<base href="http://{{ site.host }}:{{ site.port }}">
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png">
@@ -16,6 +16,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,900' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
 		<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/syntax.css">
 		<!--
@@ -26,7 +27,7 @@
 		<!--<script src="js/vendor/modernizr-2.8.3.min.js"></script>-->
 	</head>
 	<body>
-
+	{{ site.url }}
 		<div id="body-container" class="body-container">
 			{% include header.html %}
 
