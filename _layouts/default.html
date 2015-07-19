@@ -8,7 +8,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>{{ page.title }}</title>
 		<!--<base href="http://yolonerds.com">-->
-		<base href="http://{{ site.host }}:{{ site.port }}">
+		<base href="{% if site.host == 'localhost' %}http://localhost:4000{% else %}http://yolonerds.com{% endif %}">
 		<meta name="description" content="">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="apple-touch-icon" href="../apple-touch-icon.png">
