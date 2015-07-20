@@ -1,5 +1,14 @@
+.highlight pre {
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
 .highlight  { background: #F8FBC6; padding: 10px; }
-.highlight .lineno { color: red }
+.highlighttable  { background: #F8FBC6; padding: 10px; }
+.highlight .lineno, .highlighttable .linenos { color: red }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
 .highlight .k { font-weight: bold } /* Keyword */

@@ -1,4 +1,9 @@
-paginate: 10
+# Conversion
+# markdown: kramdown
 highlighter: pygments
+
+# Serving
 host: http://yolonerds.com
-port: 80
+
+# Paging
+paginate: 10
