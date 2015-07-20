@@ -6,8 +6,14 @@ $color-logo: #E00A0A;
 $break-medium: 433px;
 $break-medium-large-text: 575px;
 
+// BODY #695E5A
+// YOLO #EC5422
+// NERDS WHITE
+// EVERYTHING WHITE
+// ARTICLE SECTION #C3E1FA
+// ARTICLE LINK BLACK
+
 body {
-	/*background: #2e374a;*/
 	background: #B8B8B8;
 	background-image: url("../images/bg.png");
 	background-repeat:no-repeat;
@@ -51,8 +57,6 @@ header {
 
 	h1, h2 {
 		color: $color-page-title;
-		//width: 200px;
-		//margin: 0px auto;
 		margin: 0;
 	}
 
@@ -94,13 +98,11 @@ header {
  }
 
 .yolo {
-	/*5color: #3366ff;*/
   	color: $color-logo;
 }
 
 .article-section-container {
 	padding: 30px 30px;
-	/*background: #f1f1f1;*/
 }
 
 section {
@@ -129,9 +131,31 @@ section {
 		}
 
 		span {
-			//margin-top: -20px;
 			font-size: 80%;
 			border-bottom: 1px solid $color-logo;
+		}
+	}
+}
+
+.pagination-container {
+
+	text-align: center;
+	margin-bottom: 40px;
+
+	.pagination {
+		display: inline-block;
+
+		i {
+			cursor: pointer;
+			display: table-cell;
+			vertical-align: middle;
+		}
+
+		.page-number {
+			display: table-cell;
+			vertical-align: middle;
+			padding: 0 10px;
+			font-size: 90%;
 		}
 	}
 }
@@ -139,11 +163,4 @@ section {
 .disqus {
 	margin: 40px 0;
 }
-
-// BODY #695E5A
-// YOLO #EC5422
-// NERDS WHITE
-// EVERYTHING WHITE
-// ARTICLE SECTION #C3E1FA
-// ARTICLE LINK BLACK
 
