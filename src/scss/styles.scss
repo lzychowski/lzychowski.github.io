@@ -93,46 +93,55 @@ header {
 	}
 }
 
-.float-left {
-	 float: left;
- }
+main {
 
-.yolo {
-  	color: $color-logo;
+	h1 {
+		margin: 20px 0 0 0;
+	}
+
+	h2 {
+		margin: 20px 0 0 0;
+	}
 }
 
-.article-section-container {
+.article-list-container {
 	padding: 30px 30px;
+
+	section {
+
+		font-family: 'Montserrat', sans-serif;
+
+		article {
+
+			margin-bottom: 20px;
+
+			a {
+				text-decoration: none;
+				color: #000;
+			}
+
+			a:hover {
+				color: #555;
+			}
+
+			span.date {
+				font-size: 80%;
+				border-bottom: 1px solid $color-logo;
+			}
+		}
+	}
 }
 
-section {
+.article-container {
 
-	font-family: 'Montserrat', sans-serif;
+	section {
 
-	article {
+		article {
 
-		margin-bottom: 20px;
-
-		a {
-			text-decoration: none;
-			color: #000;
-		}
-
-		a:hover {
-			color: #555;
-		}
-
-		h2, span {
-
-		}
-
-		h2 {
-			margin: 0;
-		}
-
-		span {
-			font-size: 80%;
-			border-bottom: 1px solid $color-logo;
+			span.date {
+				font-size: 80%;
+				border-bottom: 1px solid $color-logo;
+			}
 		}
 	}
 }
@@ -145,10 +154,20 @@ section {
 	.pagination {
 		display: inline-block;
 
+		a {
+			i {
+				cursor: pointer;
+				display: table-cell;
+				vertical-align: middle;
+				color: black;
+			}
+		}
+
 		i {
-			cursor: pointer;
+			cursor: default;
 			display: table-cell;
 			vertical-align: middle;
+			color: #666;
 		}
 
 		.page-number {
@@ -162,5 +181,13 @@ section {
 
 .disqus {
 	margin: 40px 0;
+}
+
+.float-left {
+	float: left;
+}
+
+.yolo {
+	color: $color-logo;
 }
 

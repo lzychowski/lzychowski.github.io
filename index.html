@@ -3,13 +3,13 @@ layout: default
 title: YOLOnerds
 ---
 
-		<div class="article-section-container">
+		<div class="article-list-container">
 			<section>
 				{% for post in paginator.posts %}
 				<article>
 					<a href="{{ post.url }}">
 						<h2>{{ post.title }}</h2>
-						<span>{{ post.date | date: "%B %e, %Y" }}</span>
+						<span class="date">{{ post.date | date: "%B %e, %Y" }}</span>
 					</a>
 				</article>
 				{% endfor %}
@@ -19,13 +19,17 @@ title: YOLOnerds
 		<div class="pagination-container">
 			<div class="pagination">
 				{% if paginator.previous_page %}
-				<a href="{{ paginator.previous_page_path }}" class=""><i class="fa fa-arrow-left fa-2x"></i></a>
+				<a href="{{ paginator.previous_page_path }}" class="">
+					<i class="fa fa-arrow-left fa-2x"></i>
+				</a>
 				{% else %}
 				<i class="fa fa-arrow-left fa-2x"></i><!--<span class="previous">Previous</span>-->
 				{% endif %}
 				<span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
 				{% if paginator.next_page %}
-				<a href="{{ paginator.next_page_path }}" class=""><i class="fa fa-arrow-right fa-2x"></i>></a>
+				<a href="{{ paginator.next_page_path }}" class="">
+					<i class="fa fa-arrow-right fa-2x"></i>>
+				</a>
 				{% else %}
 				<i class="fa fa-arrow-right fa-2x"></i><!--<span class="next ">Next</span>-->
 				{% endif %}
