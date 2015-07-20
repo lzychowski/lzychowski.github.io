@@ -6,6 +6,10 @@
 	word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
+.highlight code {
+	/*font-family: Titillium Web, sans-serif;*/
+}
+
 .highlight  { background: #F8FBC6; padding: 10px; }
 .highlighttable  { background: #F8FBC6; padding: 10px; }
 .highlight .lineno, .highlighttable .linenos { color: red }

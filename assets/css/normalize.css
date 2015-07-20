@@ -231,7 +231,8 @@ kbd,
 pre,
 samp {
   font-family: monospace, monospace;
-  font-size: 1em;
+  font-size: 90%;
+  /*font-size: 1em;*/
 }
 
 /* Forms
