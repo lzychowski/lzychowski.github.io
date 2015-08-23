@@ -1,6 +1,6 @@
 body {
   background: #B8B8B8;
-  background-image: url("../images/bg.png");
+  background-image: url("../images/bg1.png");
   background-repeat: no-repeat;
   margin: 0;
   font: 100% Open Sans, sans-serif; }
@@ -10,45 +10,86 @@ body {
     margin: 0 auto; }
 
 header {
-  margin: 20px 0 30px 0; }
-  @media screen and (min-width: 433px) {
+  margin: 20px 0 30px 0;
+  /* header logo and container */
+  /* header text */ }
+  @media screen and (min-width: 620px) {
     header {
       display: inline-block; } }
-  @media screen and (min-width: 433px) {
+  @media screen and (min-width: 620px) {
     header div {
       float: left; } }
-  @media screen and (max-width: 433px) {
-    header div:first-child {
-      margin: 0 auto;
-      width: 185px; } }
-  @media screen and (max-width: 433px) {
+  header div:first-child {
+    /* ANIMATION */
+    		/*@keyframes logoFloat {
+    			0%   { left: 0px; top: -6px; }
+    			33%  { left: 0px; top: 0px;  }
+    			66%  { left: 0px; top: 6px;  }
+    			100% { left: 0px; top: 0px;  }
+    		}
+    
+    		img {
+    			animation-name: logoFloat;
+    			-webkit-animation-duration: 3s;
+    			animation-duration: 3s;
+    			animation-iteration-count: infinite;
+    			width: 184px;
+    			height: 202px;
+    			position: relative;
+    		}*/ }
+@keyframes roll {
+  0% {
+    transform: rotate(0); }
+  25% {
+    transform: rotate(7deg); }
+  50% {
+    transform: rotate(0); }
+  75% {
+    transform: rotate(-7deg); }
+  100% {
+    transform: rotate(0deg); } }
+    header div:first-child img {
+      animation: roll 8s infinite; }
+    @media screen and (max-width: 620px) {
+      header div:first-child {
+        margin: 0 auto;
+        width: 185px; } }
+  @media screen and (max-width: 620px) {
     header div:last-child {
       margin: 0 auto;
       width: 208px; } }
   header h1, header h2 {
     color: #000;
     margin: 0; }
-  @media screen and (min-width: 575px) {
+  @media screen and (min-width: 620px) {
     header h1 {
       font: 400% Titillium Web, sans-serif;
-      font-weight: 900; } }
-  @media screen and (max-width: 575px) {
+      font-weight: 900;
+      line-height: 65px;
+      margin-bottom: 15px; } }
+  @media screen and (max-width: 620px) {
     header h1 {
       font: 250% Titillium Web, sans-serif;
-      font-weight: 900; } }
-  @media screen and (min-width: 575px) {
+      font-weight: 900;
+      line-height: 37px;
+      margin-bottom: 11px; } }
+  @media screen and (min-width: 620px) {
     header h2 {
       font: 150% Titillium Web, sans-serif;
       font-weight: 400;
       margin-top: -25px; } }
-  @media screen and (max-width: 575px) {
+  @media screen and (max-width: 620px) {
     header h2 {
       font: 100% Titillium Web, sans-serif;
       font-weight: 400;
       margin-top: -15px; } }
-  @media screen and (min-width: 433px) {
-    header .name {
-      margin-top: 70px; } }
+  header .name {
+    background-color: rgba(93, 175, 216, 0.85);
+    padding: 0 10px;
+    border-radius: 4px; }
+    @media screen and (min-width: 620px) {
+      header .name {
+        margin-top: 70px; } }
 
 main h1 {
   margin: 20px 0 0 0; }

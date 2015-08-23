@@ -3,8 +3,8 @@ $font-article-title: Open Sans, sans-serif;
 $color-page-title: #000;
 $color-logo: #E00A0A;
 
-$break-medium: 433px;
 $break-medium-large-text: 575px;
+$break-medium: 620px;
 
 // BODY #695E5A
 // YOLO #EC5422
@@ -15,7 +15,7 @@ $break-medium-large-text: 575px;
 
 body {
 	background: #B8B8B8;
-	background-image: url("../images/bg.png");
+	background-image: url("../images/bg1.png");
 	background-repeat:no-repeat;
 	margin: 0;
 	font: 100% $font-article-title;
@@ -41,13 +41,57 @@ header {
 		}
 	}
 
+	/* header logo and container */
 	div:first-child{
+
+		/* ANIMATION */
+
+		@keyframes roll {
+			0% {
+				transform: rotate(0);
+			}
+			25% {
+				transform: rotate(7deg);
+			}
+			50% {
+				transform: rotate(0);
+			}
+			75% {
+				transform: rotate(-7deg);
+			}
+			100% {
+				transform: rotate(0deg);
+			}
+		}
+
+		img {
+			animation: roll 8s infinite;
+		}
+
+		/*@keyframes logoFloat {
+			0%   { left: 0px; top: -6px; }
+			33%  { left: 0px; top: 0px;  }
+			66%  { left: 0px; top: 6px;  }
+			100% { left: 0px; top: 0px;  }
+		}
+
+		img {
+			animation-name: logoFloat;
+			-webkit-animation-duration: 3s;
+			animation-duration: 3s;
+			animation-iteration-count: infinite;
+			width: 184px;
+			height: 202px;
+			position: relative;
+		}*/
+
 		@media screen and (max-width: $break-medium){
 			margin: 0 auto;
 			width: 185px;
 		}
 	}
 
+	/* header text */
 	div:last-child{
 		@media screen and (max-width: $break-medium){
 			margin: 0 auto;
@@ -62,24 +106,28 @@ header {
 
 	h1 {
 
-		@media screen and (min-width: $break-medium-large-text){
+		@media screen and (min-width: $break-medium){
 			font: 400% $font-page-title;
 			font-weight: 900;
+			line-height: 65px;
+			margin-bottom: 15px;
 		}
-		@media screen and (max-width: $break-medium-large-text){
+		@media screen and (max-width: $break-medium){
 			font: 250% $font-page-title;
 			font-weight: 900;
+			line-height: 37px;
+			margin-bottom: 11px;
 		}
 
 	}
 
 	h2 {
-		@media screen and (min-width: $break-medium-large-text){
+		@media screen and (min-width: $break-medium){
 			font: 150% $font-page-title;
 			font-weight: 400;
 			margin-top: -25px;
 		}
-		@media screen and (max-width: $break-medium-large-text){
+		@media screen and (max-width: $break-medium){
 			font: 100% $font-page-title;
 			font-weight: 400;
 			margin-top: -15px;
@@ -87,6 +135,11 @@ header {
 	}
 
 	.name {
+
+		background-color: rgba(93, 175, 216, 0.85);
+		padding: 0 10px;
+		border-radius: 4px;
+
 	  @media screen and (min-width: $break-medium){
 		margin-top: 70px;
 	  }
@@ -191,4 +244,3 @@ main {
 .yolo {
 	color: $color-logo;
 }
-
