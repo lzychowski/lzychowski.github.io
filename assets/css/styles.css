@@ -44,7 +44,7 @@ header {
   @media screen and (max-width: 575px) {
     header h2 {
       font: 100% Titillium Web, sans-serif;
-      font-weight: 900;
+      font-weight: 400;
       margin-top: -15px; } }
   @media screen and (min-width: 433px) {
     header .name {

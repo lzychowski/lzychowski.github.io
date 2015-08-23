@@ -1,7 +1,7 @@
 /**
  * Created by leszek on 7/19/2015.
  */
-$(window).resize(function(){
+/*$(window).resize(function(){
 	$(".highlight span").each(function(){
 		var current = $(this);
 		var text = current.text();
@@ -22,4 +22,4 @@ $(window).resize(function(){
 
 		console.log(current);
 	});
-});
+});*/
