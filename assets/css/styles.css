@@ -12,7 +12,21 @@ body {
 header {
   margin: 20px 0 30px 0;
   /* header logo and container */
-  /* header text */ }
+  /* header text */
+  /* TOOLTIPS */
+  	/*a {
+  		position: relative;
+  		display: inline;
+  	}
+  
+  	a:hover:after {
+  		content: attr(title);
+  		position: absolute;
+  		z-index: 100;
+  		left: -20px;
+  		bottom: -70px;
+  		width: 200px;
+  	}*/ }
   @media screen and (min-width: 620px) {
     header {
       display: inline-block; } }
@@ -84,12 +98,14 @@ header {
       font-weight: 400;
       margin-top: -15px; } }
   header .name {
-    background-color: rgba(93, 175, 216, 0.85);
+    background-color: rgba(166, 203, 222, 0.85);
     padding: 0 10px;
     border-radius: 4px; }
     @media screen and (min-width: 620px) {
       header .name {
         margin-top: 70px; } }
+  header a {
+    text-decoration: none; }
 
 main h1 {
   margin: 20px 0 0 0; }
@@ -103,6 +119,7 @@ main h2 {
     .article-list-container section article {
       margin-bottom: 20px; }
       .article-list-container section article a {
+        display: inline-block;
         text-decoration: none;
         color: #000; }
       .article-list-container section article a:hover {

@@ -136,7 +136,7 @@ header {
 
 	.name {
 
-		background-color: rgba(93, 175, 216, 0.85);
+		background-color: rgba(166, 203, 222, 0.85);
 		padding: 0 10px;
 		border-radius: 4px;
 
@@ -144,6 +144,26 @@ header {
 		margin-top: 70px;
 	  }
 	}
+
+	a {
+		text-decoration: none;
+	}
+
+	/* TOOLTIPS */
+
+	/*a {
+		position: relative;
+		display: inline;
+	}
+
+	a:hover:after {
+		content: attr(title);
+		position: absolute;
+		z-index: 100;
+		left: -20px;
+		bottom: -70px;
+		width: 200px;
+	}*/
 }
 
 main {
@@ -170,6 +190,7 @@ main {
 			margin-bottom: 20px;
 
 			a {
+				display: inline-block;
 				text-decoration: none;
 				color: #000;
 			}
