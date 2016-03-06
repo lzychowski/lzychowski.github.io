@@ -1,6 +1,6 @@
 # Conversion
 # markdown: kramdown
-highlighter: pygments
+highlighter: rogue
 
 # Serving
 host: http://yolonerds.com
