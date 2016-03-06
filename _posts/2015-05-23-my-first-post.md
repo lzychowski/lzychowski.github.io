@@ -6,12 +6,38 @@ permalink: /CRUD-operations-Oracle-Entity-Framework
 path: 2016-03-06-CRUD-operations-Oracle-Entity-Framework.md
 ---
 
-My name is Bean and this is my first post :0)
+Recently I was tasked with creating a small project in which I had to perform 4 basic operations on an Oracle database: create, read, update, delete.  My choice of language was C# as I spent last year and a half coding in the .net stack.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sit amet ligula molestie, condimentum dui sed, pellentesque lorem. Suspendisse efficitur nunc auctor, finibus est sed, eleifend massa. Integer nibh libero, porttitor non ex vel, posuere vestibulum diam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla tincidunt dui sed mi laoreet, blandit mattis diam euismod. Suspendisse sagittis, nisi at commodo auctor, erat erat dignissim est, nec sagittis lectus eros quis diam. Sed cursus tellus laoreet erat viverra, quis tempus nibh pharetra. Nulla facilisi. Etiam vitae metus eu nisl mollis egestas. Sed fringilla nisl est, non vestibulum lectus eleifend non. Etiam facilisis aliquam orci, quis varius justo porttitor a. Nullam pellentesque enim nisi, non fermentum magna lacinia sit amet. Mauris hendrerit tellus at elementum fermentum. Nullam id magna id augue congue consequat eu a lacus.
+I have to say that connecting to an Oracle database from C# is not as straight forward as connecting to MS SQL database.  I found a great post by Mariusz Bojkowski which outlines the setup required to be able to access the database.  You can find the instructions on the csharp.today blog at https://csharp.today/entity-framework-6-database-first-with-oracle/.
 
+The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
+
+Get all rows in the table
 ``` csharp
 var list = db.TABLENAME.ToList();
 ```
 
-Sed semper purus nibh, sit amet laoreet purus sollicitudin a. Donec aliquet sapien erat. Integer vel odio laoreet massa placerat mattis sed non nisl. Donec a lectus auctor ligula ultricies vehicula in et purus. Fusce et ornare ipsum, non facilisis sapien. Phasellus imperdiet gravida sapien, ac iaculis mi varius facilisis. Curabitur eget efficitur ipsum. In urna nisi, iaculis non lectus eu, vestibulum malesuada libero.
+Get single row
+``` csharp
+var list = db.TABLENAME.ToList();
+```
+
+Add row to the table
+``` csharp
+db.TABLENAME.Add(model);
+db.SaveChanges();
+```
+
+Update row
+``` csharp
+db.TABLENAME.Attach(model);
+var entry = db.Entry(model);
+entry.Property(e => e.COLUMN_TO_UPDATE).IsModified = true;
+db.SaveChanges();
+```
+
+Delete row from the table
+``` csharp
+db.TABLENAME.Remove(db.TABLENAME.First(x => x.ID == ID));
+db.SaveChanges();
+```
