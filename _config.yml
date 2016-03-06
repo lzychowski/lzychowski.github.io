@@ -1,6 +1,9 @@
 # Conversion
 markdown: kramdown
-#highlighter: pygments
+# highlighter: pygments
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Serving
 host: http://yolonerds.com
