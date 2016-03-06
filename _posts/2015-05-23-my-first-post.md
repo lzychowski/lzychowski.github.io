@@ -8,7 +8,7 @@ path: 2016-03-06-CRUD-operations-Oracle-Entity-Framework.md
 
 Recently I was tasked with creating a small project in which I had to perform 4 basic operations on an Oracle database: create, read, update, delete.  My choice of language was C# as I spent last year and a half coding in the .net stack.
 
-I have to say that connecting to an Oracle database from C# is not as straight forward as connecting to MS SQL database.  I found a great post by Mariusz Bojkowski which outlines the setup required to be able to access the database.  You can find the instructions on the csharp.today blog at https://csharp.today/entity-framework-6-database-first-with-oracle/.
+I have to say that connecting to an Oracle database from C# is not as straight forward as connecting to MS SQL database.  I found a great post by Mariusz Bojkowski which outlines the setup required to be able to access the database.  You can find the instructions on the csharp.today blog at [Entity Framework 6 Database First With Oracle](//csharp.today/entity-framework-6-database-first-with-oracle/).
 
 The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
 
