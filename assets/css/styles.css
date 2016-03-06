@@ -63,7 +63,7 @@ header {
   100% {
     transform: rotate(0deg); } }
     header div:first-child img {
-      animation: roll 8s infinite; }
+      /*animation: roll 8s infinite;*/ }
     @media screen and (max-width: 620px) {
       header div:first-child {
         margin: 0 auto;
