@@ -73,7 +73,7 @@ header {
       margin: 0 auto;
       width: 208px; } }
   header h1, header h2 {
-    color: #000;
+    color: #FFF;
     margin: 0; }
   @media screen and (min-width: 620px) {
     header h1 {
@@ -98,7 +98,7 @@ header {
       font-weight: 400;
       margin-top: -15px; } }
   header .name {
-    background-color: rgba(166, 203, 222, 0.85);
+    background-color: rgba(31, 31, 31, 0.85);
     padding: 0 10px;
     border-radius: 4px; }
     @media screen and (min-width: 620px) {

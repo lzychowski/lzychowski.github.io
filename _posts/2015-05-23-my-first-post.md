@@ -13,22 +13,26 @@ I have to say that connecting to an Oracle database from C# is not as straight f
 The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
 
 Get all rows in the table
+
 ``` csharp
 var list = db.TABLENAME.ToList();
 ```
 
 Get single row
+
 ``` csharp
 var list = db.TABLENAME.ToList();
 ```
 
 Add row to the table
+
 ``` csharp
 db.TABLENAME.Add(model);
 db.SaveChanges();
 ```
 
 Update row
+
 ``` csharp
 db.TABLENAME.Attach(model);
 var entry = db.Entry(model);
@@ -37,6 +41,7 @@ db.SaveChanges();
 ```
 
 Delete row from the table
+
 ``` csharp
 db.TABLENAME.Remove(db.TABLENAME.First(x => x.ID == ID));
 db.SaveChanges();
