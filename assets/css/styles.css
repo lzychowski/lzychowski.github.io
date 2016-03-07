@@ -138,11 +138,13 @@ main {
         font-size: 80%;
         border-bottom: 1px solid #E00A0A; }
 
-.article-container .highlighter-rouge {
-  color: #000; }
-.article-container section article span.date {
-  font-size: 80%;
-  border-bottom: 1px solid #E00A0A; }
+.article-container {
+  padding: 0 30px 0 30px; }
+  .article-container .highlighter-rouge {
+    color: #000; }
+  .article-container section article span.date {
+    font-size: 80%;
+    border-bottom: 1px solid #E00A0A; }
 
 .pagination-container {
   text-align: center;
