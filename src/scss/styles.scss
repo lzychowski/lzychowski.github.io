@@ -18,7 +18,7 @@ body {
 	background-image: url("../images/bg1.png");
 	background-repeat:no-repeat;
 	margin: 0;
-	font: 100% $font-article-title;
+	font: 90% $font-article-title;
 
 	.body-container {
 		width: 90%;
@@ -168,6 +168,10 @@ header {
 
 main {
 
+	padding: 10px;
+	background-color: rgba(31, 31, 31, 0.85);
+	color: #fff;
+
 	h1 {
 		margin: 20px 0 0 0;
 	}
@@ -202,11 +206,11 @@ main {
 			a {
 				display: inline-block;
 				text-decoration: none;
-				color: #000;
+				color: #FFF;
 			}
 
 			a:hover {
-				color: #555;
+				color: #CCC;
 			}
 
 			span.date {
