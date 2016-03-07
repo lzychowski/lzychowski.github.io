@@ -25,7 +25,7 @@ var list = db.TABLENAME.ToList();
 Get single row
 
 ``` csharp
-var list = db.TABLENAME.ToList();
+var model = db.TABLENAME.First(x => x.ID == ID);
 ```
 
 Add row to the table
