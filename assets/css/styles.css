@@ -138,6 +138,8 @@ main {
         font-size: 80%;
         border-bottom: 1px solid #E00A0A; }
 
+.article-container .highlighter-rouge {
+  color: #000; }
 .article-container section article span.date {
   font-size: 80%;
   border-bottom: 1px solid #E00A0A; }
@@ -171,5 +173,9 @@ main {
 
 .yolo {
   color: #E00A0A; }
+
+.copyright {
+  font: 75% Open Sans, sans-serif;
+  margin: 10px 0 10px 0; }
 
 /*# sourceMappingURL=styles.css.map */

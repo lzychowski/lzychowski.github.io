@@ -223,6 +223,10 @@ main {
 
 .article-container {
 
+	.highlighter-rouge {
+		color: #000;
+	}
+
 	section {
 
 		article {
@@ -278,4 +282,9 @@ main {
 
 .yolo {
 	color: $color-logo;
+}
+
+.copyright {
+	font: 75% $font-article-title;
+	margin: 10px 0 10px 0;
 }
