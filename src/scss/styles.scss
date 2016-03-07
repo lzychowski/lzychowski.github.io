@@ -175,6 +175,16 @@ main {
 	h2 {
 		margin: 20px 0 0 0;
 	}
+
+	a {
+		text-decoration: none;
+		color: #E00A0A;
+	}
+
+	a:hover {
+		text-decoration: none;
+		color: #000;
+	}
 }
 
 .article-list-container {

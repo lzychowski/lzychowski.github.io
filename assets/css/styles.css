@@ -111,6 +111,12 @@ main h1 {
   margin: 20px 0 0 0; }
 main h2 {
   margin: 20px 0 0 0; }
+main a {
+  text-decoration: none;
+  color: #E00A0A; }
+main a:hover {
+  text-decoration: none;
+  color: #000; }
 
 .article-list-container {
   padding: 30px 30px; }
