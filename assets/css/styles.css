@@ -1,5 +1,5 @@
 body {
-  background: #92E45F;
+  background: #ABE45F;
   background-image: url("../images/bg1.png");
   background-repeat: no-repeat;
   margin: 0;
@@ -116,7 +116,7 @@ main a {
   color: #E00A0A; }
 main a:hover {
   text-decoration: none;
-  color: #000; }
+  color: #333; }
 
 .article-list-container {
   padding: 30px 30px; }
