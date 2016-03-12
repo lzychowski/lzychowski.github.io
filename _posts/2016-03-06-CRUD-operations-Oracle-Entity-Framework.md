@@ -14,7 +14,9 @@ I found a great post by Mariusz Bojkowski which outlines the setup required to b
 
 After you complete Mariusz's tutorial you should have generated few files.  Among them you will find a context and a model.  You will create an instance of this context in a controller of your choice and use the model for various operations.
 
+<!--
 ![Entity generated files]({{ site.url }}/assets/images/2016-03-06-CRUD-models.JPG)
+-->
 
 The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
 
