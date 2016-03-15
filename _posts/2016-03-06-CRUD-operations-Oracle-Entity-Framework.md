@@ -29,7 +29,7 @@ var list = db.TABLENAME.ToList();
 Get single row
 
 ``` csharp
-var model = db.TABLENAME.First(x => x.ID == ID);
+var model = db.TABLENAME.FirstOfDefault(x => x.ID == ID);
 ```
 
 Add row to the table
@@ -51,6 +51,6 @@ db.SaveChanges();
 Delete row from the table
 
 ``` csharp
-db.TABLENAME.Remove(db.TABLENAME.First(x => x.ID == ID));
+db.TABLENAME.Remove(db.TABLENAME.FirstOfDefault(x => x.ID == ID));
 db.SaveChanges();
 ```
