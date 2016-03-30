@@ -20,13 +20,7 @@ After you complete Mariusz's tutorial you should have generated few files.  Amon
 
 The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
 
-Create an instance of an entity class that was generated in Mariusz's blog
-
-``` csharp
-private EntityClass db = new EntityClass();
-```
-
-The class should look similar to this
+First take a look at the classes generated from the instructions in Mariusz's blog.  The DB context class should look similar to this
 
 ``` csharp
 namespace Project.Models
@@ -66,6 +60,12 @@ namespace Project.Models
         public string NAME { get; set; }
     }
 }
+```
+
+Now you are ready to create an instance of the context
+
+``` csharp
+private EntityClass db = new EntityClass();
 ```
 
 Get all rows in the table
