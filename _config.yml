@@ -10,3 +10,6 @@ host: http://yolonerds.com
 
 # Paging
 paginate: 10
+
+# gems
+gems: [jekyll-paginate]

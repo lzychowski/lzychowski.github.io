@@ -20,6 +20,54 @@ After you complete Mariusz's tutorial you should have generated few files.  Amon
 
 The remainder of the steps was not outlined, therefore I compiled a quick list of code snippets that will allow you to immediately perform CRUD operations on your Oracle database table.  They are listed below.
 
+Create an instance of an entity class that was generated in Mariusz's blog
+
+``` csharp
+private EntityClass db = new EntityClass();
+```
+
+The class should look similar to this
+
+``` csharp
+namespace Project.Models
+{
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Infrastructure;
+    
+    public partial class EntityClass : DbContext
+    {
+        public Entities1()
+            : base("name=YourConnectionStringName")
+        {
+        }
+    
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            throw new UnintentionalCodeFirstException();
+        }
+    
+        public virtual DbSet<MODELNAME> TABLENAME { get; set; }
+    }
+}
+```
+
+Where MODELNAME is
+
+``` csharp
+namespace Project.Models
+{
+    using System;
+    using System.Collections.Generic;
+    
+    public partial class MODELNAME
+    {
+        public decimal ID { get; set; }
+        public string NAME { get; set; }
+    }
+}
+```
+
 Get all rows in the table
 
 ``` csharp
