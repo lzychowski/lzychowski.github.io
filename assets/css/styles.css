@@ -143,7 +143,9 @@ main {
   .article-container i {
     color: red; }
   .article-container .highlighter-rouge {
-    color: #000; }
+    color: #000;
+    background-color: #F8FBC6;
+    padding: 1px 5px; }
   .article-container section article span.date {
     font-size: 80%;
     border-bottom: 1px solid #E00A0A; }
