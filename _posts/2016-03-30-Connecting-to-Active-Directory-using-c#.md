@@ -6,7 +6,7 @@ permalink: /Connecting-to-Active-Directory-using-CSharp
 path: 2016-03-30-Connecting-to-Active-Directory-using-C.md
 ---
 
-Another assignment that I had to complete was connecting to AD (Active Directory) using C#.  In this assignment I had to start with referencing the System.DirectoryService library.
+Another assignment that I had to complete was connecting to AD (Active Directory) using C#.  In this assignment I had to start with referencing the `System.DirectoryService` library.
 
 ``` csharp
 using System.DirectoryServices;
