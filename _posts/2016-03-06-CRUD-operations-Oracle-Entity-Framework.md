@@ -27,7 +27,7 @@ namespace Project.Models
     
     public partial class EntityClass : DbContext
     {
-        public Entities1()
+        public EntityClass()
             : base("name=YourConnectionStringName")
         {
         }

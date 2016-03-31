@@ -5,7 +5,13 @@ layout: default
 		<div class="article-container">
 			<section>
 				<article>
-					<h1>{{ page.title }}</h1>
+					<h1>{{ page.title }}
+						<span style="margin-left: 10px;">
+							<a href="https://twitter.com/share?url=http://yolonerds.com{{ page.url }}" data-toggle="tooltip" title="Share on Twitter">
+								<i class="fa fa-twitter fa-2"></i>
+							</a>
+						</span>
+					</h1>
 					<span class="date">{{ page.date | date: "%B %e, %Y" }}</span>
 
 					{{ content }}

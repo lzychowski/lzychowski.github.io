@@ -111,14 +111,16 @@ main {
   padding: 10px;
   background-color: rgba(31, 31, 31, 0.85);
   color: #fff; }
+  main code {
+    color: black; }
   main h1 {
     margin: 20px 0 0 0; }
   main h2 {
     margin: 20px 0 0 0; }
   main a {
-    color: #888; }
+    color: #aaa; }
   main a:hover {
-    color: #666; }
+    color: #888; }
 
 .article-list-container {
   padding: 30px 30px; }
@@ -138,6 +140,8 @@ main {
 
 .article-container {
   padding: 0 30px 0 30px; }
+  .article-container i {
+    color: red; }
   .article-container .highlighter-rouge {
     color: #000; }
   .article-container section article span.date {
