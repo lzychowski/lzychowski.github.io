@@ -2,8 +2,8 @@
 title: Unit testing with MOQ and Dependency Injection - C#, Unity.Mvc5
 author: Leszek
 layout: post
-permalink: /Unit-testing-with-MOQ-and-Dependency-Injection-C#-Unity
-path: 2016-04-16-Unit-testing-with-MOQ-and-Dependency-Injection-C#-Unity.md
+permalink: /Unit-testing-with-MOQ-and-Dependency-Injection-CSharp-Unity
+path: 2016-04-16-Unit-testing-with-MOQ-and-Dependency-Injection-CSharp-Unity.md
 ---
 
 Both of the C# projects I have worked on recently used [MOQ](//github.com/Moq/moq4) for .NET to mock various resources in unit tests.  One thing that also helped in those unit tests was [Unity.Mvc5](//github.com/devtrends/Unity.Mvc5) and its Dependency Injection.

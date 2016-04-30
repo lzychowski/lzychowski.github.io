@@ -3,7 +3,7 @@ title: Connecting to Active Directory using C#
 author: Leszek
 layout: post
 permalink: /Connecting-to-Active-Directory-using-CSharp
-path: 2016-03-30-Connecting-to-Active-Directory-using-C.md
+path: 2016-03-30-Connecting-to-Active-Directory-using-CSharp.md
 ---
 
 Another assignment that I had to complete was connecting to AD (Active Directory) using C#.  In this assignment I had to start with referencing the `System.DirectoryService` library.
