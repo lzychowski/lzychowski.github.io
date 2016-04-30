@@ -2,7 +2,7 @@
 title: Unit testing with MOQ and Dependency Injection - C#, Unity.Mvc5
 author: Leszek
 layout: post
-permalink: /Unit-testing-with-MOQ-and-Dependency-Injection---C#,-Unity.Mvc5
+permalink: /Unit-testing-with-MOQ-and-Dependency-Injection-C#-Unity.Mvc5
 path: 2016-04-16-Unit-testing-with-MOQ-and-Dependency-Injection-C#-Unity.Mvc5.md
 ---
 
