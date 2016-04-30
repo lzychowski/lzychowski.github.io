@@ -49,7 +49,7 @@ I'm sure there are better ways of handling exceptions, but for the purpose of th
 
 In the above example we are injecting `OrderRepository` into the service and then we are calling its `GetIngredients` method within the `try` block.  In order to be able to create a mock repository, we need to know what the `GetIngredients` method in `OrderRepository` returns and create that object within the test.
 
-Finally we are able to write a unit test inside of a test class.  You generally want to create a separate project for your unit tests.  If you are using Visual Studio 2015 you can read more about "Create Unit Tests" feature (here)[//blogs.msdn.microsoft.com/visualstudioalm/2015/03/06/creating-unit-test-method-stubs-with-create-unit-tests/].
+Finally we are able to write a unit test inside of a test class.  You generally want to create a separate project for your unit tests.  If you are using Visual Studio 2015 you can read more about "Create Unit Tests" feature [here](//blogs.msdn.microsoft.com/visualstudioalm/2015/03/06/creating-unit-test-method-stubs-with-create-unit-tests/).
 
 ``` csharp
 [TestClass()]
