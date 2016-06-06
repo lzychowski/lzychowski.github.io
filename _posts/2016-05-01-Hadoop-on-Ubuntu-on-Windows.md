@@ -3,7 +3,7 @@ title: Hadoop on Ubuntu on Windows
 author: Leszek
 layout: post
 permalink: /Hadoop-on-Ubuntu-on-Windows
-path: 2016-04-30-Hadoop-on-Ubuntu-on-Windows.md
+path: 2016-05-01-Hadoop-on-Ubuntu-on-Windows.md
 ---
 
 I have only been tweeting for few months, and I mostly tweet about games, but when I tweeted about Big Data and Hadoop, I have received the most likes and retweets out of everything I ever posted.  It seems that Big Data and Hadoop are a hot topic at this point in time.
