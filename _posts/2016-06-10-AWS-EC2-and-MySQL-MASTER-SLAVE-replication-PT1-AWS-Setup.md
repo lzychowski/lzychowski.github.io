@@ -1,5 +1,5 @@
 ---
-title: AWS EC2 and MySQL MASTER-SLAVE replication PT1 - AWS Setup
+title: AWS EC2 and MySQL MASTER-SLAVE replication PT 1 - AWS Setup
 author: Leszek
 layout: post
 permalink: /AWS-EC2-and-MySQL-MASTER-SLAVE-replication-PT1-AWS-Setup
@@ -64,7 +64,7 @@ It will take few minutes before you can RDP into the server.
 
 Once your instance is ready, you will be able to access under "Instances".  Click on the checkbox next to your instance and hit connect.
 
-[![EC2 Widnows Server 2012](/assets/images/20160610/8.JPG)](/assets/images/20160610/8.JPG)
+[![EC2 Widnows Server 2012](/assets/images/20160610/8.jpg)](/assets/images/20160610/8.jpg)
 
 You will click on "Get Password" which will ask you to upload the Key you saved in the previous step.  The password will show up in place of the button once you are done.
 
