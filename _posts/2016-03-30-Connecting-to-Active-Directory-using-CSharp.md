@@ -1,6 +1,6 @@
 ---
 title: Connecting to Active Directory using C#
-author: Leszek
+author: Leszek Zychowski
 layout: post
 permalink: /Connecting-to-Active-Directory-using-CSharp
 path: 2016-03-30-Connecting-to-Active-Directory-using-CSharp.md

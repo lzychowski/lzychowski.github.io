@@ -1,6 +1,6 @@
 ---
 title: AWS EC2 and MySQL MASTER-SLAVE replication PT1 - AWS Setup
-author: Leszek
+author: Leszek Zychowski
 layout: post
 permalink: /AWS-EC2-and-MySQL-MASTER-SLAVE-replication-PT1-AWS-Setup
 path: 2016-06-10-AWS-EC2-and-MySQL-MASTER-SLAVE-replication-PT1-AWS-Setup.md
@@ -32,11 +32,11 @@ Given that the current production environment was running Windows Server 2012, I
 
 [![EC2 Widnows Server 2012](/assets/images/20160610/1.JPG)](/assets/images/20160610/1.JPG)
 
-For the purpose of the tutorial we will use AWS Free tier.  I do have to warn that setting up the server will take a lot of time due to the lack of CPU power and RAM on the free tier Micro instance.
+For the purpose of the tutorial we will use AWS Free tier.  I do have to warn that setting up the MySQL server will take a lot of time due to the lack of CPU power and RAM on the free tier micro instance.
 
 [![EC2 Widnows Server 2012](/assets/images/20160610/2.JPG)](/assets/images/20160610/2.JPG)
 
-You can most likely skip Step 3: Configure Instance Details. We will be launching a single instance to act as the MASTER server.
+You can most likely skip "Step 3: Configure Instance Details". We will be launching a single instance to act as the MASTER server.
 
 [![EC2 Widnows Server 2012](/assets/images/20160610/3.JPG)](/assets/images/20160610/3.JPG)
 

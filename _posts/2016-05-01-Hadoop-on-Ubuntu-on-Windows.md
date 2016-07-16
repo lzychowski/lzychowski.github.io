@@ -1,6 +1,6 @@
 ---
 title: Hadoop on Ubuntu on Windows
-author: Leszek
+author: Leszek Zychowski
 layout: post
 permalink: /Hadoop-on-Ubuntu-on-Windows
 path: 2016-05-01-Hadoop-on-Ubuntu-on-Windows.md

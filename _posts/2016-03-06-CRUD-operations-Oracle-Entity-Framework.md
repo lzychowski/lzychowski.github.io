@@ -1,6 +1,6 @@
 ---
 title: CRUD operations on Oracle DB using Entity Framework
-author: Leszek
+author: Leszek Zychowski
 layout: post
 permalink: /CRUD-operations-Oracle-Entity-Framework
 path: 2016-03-06-CRUD-operations-Oracle-Entity-Framework.md
