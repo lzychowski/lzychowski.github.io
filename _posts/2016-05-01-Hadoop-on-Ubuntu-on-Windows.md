@@ -44,7 +44,7 @@ There are no specific setup options you have to choose to be able to install Had
 
 Once you are done you will see Ubuntu Server prompt.  The great tutorial I followed to setup Hadoop is located at [bogotobogo.com](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Install_on_ubuntu_single_node_cluster.php)
 
-Finally you will run `start-all.sh` command which will start Hadoop on your VM.  Next thing you will want to do is find your IP address.  You can type `ifconfig` at the command prompt to view your `eth0` IP address.
+Finally, you will run `start-all.sh` command which will start Hadoop on your VM.  Next thing you will want to do is find your IP address.  You can type `ifconfig` at the command prompt to view your `eth0` IP address.
 
 [![VirtualBox New VM](/assets/images/20160422/7.JPG)](/assets/images/20160422/7.JPG)
 
