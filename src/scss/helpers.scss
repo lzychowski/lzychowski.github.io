@@ -1,0 +1,61 @@
+$l: left;
+$r: right;
+$t: top;
+$b: bottom;
+$pad: padding;
+$mar: margin;
+
+$repeatable-slugs: $pad $l, $pad $r, $pad $t, $pad $b, $mar $l, $mar $r, $mar $t, $mar $b;
+
+@function add-unit-to-value($value, $unit){
+	@return if($value != 0, $value + $unit, $value);
+}
+
+@function increment($i, $increment, $unit){
+	@return add-unit-to-value(0 + ($i * $increment), $unit);
+}
+
+/*
+	POSITIONAL
+*/
+
+.float-l {
+	float: left;
+}
+
+.float-r {
+	float: right;
+}
+
+/*
+	LAYOUT
+*/
+
+@mixin repeat-unit-classes-map($name-map, $start, $end, $unit, $increment: 1){
+	@each $slug in $name-map {
+		$key: nth($slug, 1);
+		$value: nth($slug, 2);
+
+		/* #{$slug} */
+
+		@for $i from $start through $end {
+			.#{$key}-#{$i * $increment}-#{str-slice($value, 0, 1)} {
+				#{$key}-#{$value}: increment($i, $increment, $unit);
+			}
+		}
+	}
+}
+
+@include repeat-unit-classes-map($repeatable-slugs, 0, 10, px, 5);
+
+/*
+	LOOK AND FEEL
+*/
+
+.red {
+	color: red;
+}
+
+
+
+

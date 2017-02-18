@@ -1,0 +1,382 @@
+/*
+	POSITIONAL
+*/
+.float-l {
+  float: left;
+}
+
+.float-r {
+  float: right;
+}
+
+/*
+	LAYOUT
+*/
+/* padding left */
+.padding-0-l {
+  padding-left: 0;
+}
+
+.padding-5-l {
+  padding-left: 5px;
+}
+
+.padding-10-l {
+  padding-left: 10px;
+}
+
+.padding-15-l {
+  padding-left: 15px;
+}
+
+.padding-20-l {
+  padding-left: 20px;
+}
+
+.padding-25-l {
+  padding-left: 25px;
+}
+
+.padding-30-l {
+  padding-left: 30px;
+}
+
+.padding-35-l {
+  padding-left: 35px;
+}
+
+.padding-40-l {
+  padding-left: 40px;
+}
+
+.padding-45-l {
+  padding-left: 45px;
+}
+
+.padding-50-l {
+  padding-left: 50px;
+}
+
+/* padding right */
+.padding-0-r {
+  padding-right: 0;
+}
+
+.padding-5-r {
+  padding-right: 5px;
+}
+
+.padding-10-r {
+  padding-right: 10px;
+}
+
+.padding-15-r {
+  padding-right: 15px;
+}
+
+.padding-20-r {
+  padding-right: 20px;
+}
+
+.padding-25-r {
+  padding-right: 25px;
+}
+
+.padding-30-r {
+  padding-right: 30px;
+}
+
+.padding-35-r {
+  padding-right: 35px;
+}
+
+.padding-40-r {
+  padding-right: 40px;
+}
+
+.padding-45-r {
+  padding-right: 45px;
+}
+
+.padding-50-r {
+  padding-right: 50px;
+}
+
+/* padding top */
+.padding-0-t {
+  padding-top: 0;
+}
+
+.padding-5-t {
+  padding-top: 5px;
+}
+
+.padding-10-t {
+  padding-top: 10px;
+}
+
+.padding-15-t {
+  padding-top: 15px;
+}
+
+.padding-20-t {
+  padding-top: 20px;
+}
+
+.padding-25-t {
+  padding-top: 25px;
+}
+
+.padding-30-t {
+  padding-top: 30px;
+}
+
+.padding-35-t {
+  padding-top: 35px;
+}
+
+.padding-40-t {
+  padding-top: 40px;
+}
+
+.padding-45-t {
+  padding-top: 45px;
+}
+
+.padding-50-t {
+  padding-top: 50px;
+}
+
+/* padding bottom */
+.padding-0-b {
+  padding-bottom: 0;
+}
+
+.padding-5-b {
+  padding-bottom: 5px;
+}
+
+.padding-10-b {
+  padding-bottom: 10px;
+}
+
+.padding-15-b {
+  padding-bottom: 15px;
+}
+
+.padding-20-b {
+  padding-bottom: 20px;
+}
+
+.padding-25-b {
+  padding-bottom: 25px;
+}
+
+.padding-30-b {
+  padding-bottom: 30px;
+}
+
+.padding-35-b {
+  padding-bottom: 35px;
+}
+
+.padding-40-b {
+  padding-bottom: 40px;
+}
+
+.padding-45-b {
+  padding-bottom: 45px;
+}
+
+.padding-50-b {
+  padding-bottom: 50px;
+}
+
+/* margin left */
+.margin-0-l {
+  margin-left: 0;
+}
+
+.margin-5-l {
+  margin-left: 5px;
+}
+
+.margin-10-l {
+  margin-left: 10px;
+}
+
+.margin-15-l {
+  margin-left: 15px;
+}
+
+.margin-20-l {
+  margin-left: 20px;
+}
+
+.margin-25-l {
+  margin-left: 25px;
+}
+
+.margin-30-l {
+  margin-left: 30px;
+}
+
+.margin-35-l {
+  margin-left: 35px;
+}
+
+.margin-40-l {
+  margin-left: 40px;
+}
+
+.margin-45-l {
+  margin-left: 45px;
+}
+
+.margin-50-l {
+  margin-left: 50px;
+}
+
+/* margin right */
+.margin-0-r {
+  margin-right: 0;
+}
+
+.margin-5-r {
+  margin-right: 5px;
+}
+
+.margin-10-r {
+  margin-right: 10px;
+}
+
+.margin-15-r {
+  margin-right: 15px;
+}
+
+.margin-20-r {
+  margin-right: 20px;
+}
+
+.margin-25-r {
+  margin-right: 25px;
+}
+
+.margin-30-r {
+  margin-right: 30px;
+}
+
+.margin-35-r {
+  margin-right: 35px;
+}
+
+.margin-40-r {
+  margin-right: 40px;
+}
+
+.margin-45-r {
+  margin-right: 45px;
+}
+
+.margin-50-r {
+  margin-right: 50px;
+}
+
+/* margin top */
+.margin-0-t {
+  margin-top: 0;
+}
+
+.margin-5-t {
+  margin-top: 5px;
+}
+
+.margin-10-t {
+  margin-top: 10px;
+}
+
+.margin-15-t {
+  margin-top: 15px;
+}
+
+.margin-20-t {
+  margin-top: 20px;
+}
+
+.margin-25-t {
+  margin-top: 25px;
+}
+
+.margin-30-t {
+  margin-top: 30px;
+}
+
+.margin-35-t {
+  margin-top: 35px;
+}
+
+.margin-40-t {
+  margin-top: 40px;
+}
+
+.margin-45-t {
+  margin-top: 45px;
+}
+
+.margin-50-t {
+  margin-top: 50px;
+}
+
+/* margin bottom */
+.margin-0-b {
+  margin-bottom: 0;
+}
+
+.margin-5-b {
+  margin-bottom: 5px;
+}
+
+.margin-10-b {
+  margin-bottom: 10px;
+}
+
+.margin-15-b {
+  margin-bottom: 15px;
+}
+
+.margin-20-b {
+  margin-bottom: 20px;
+}
+
+.margin-25-b {
+  margin-bottom: 25px;
+}
+
+.margin-30-b {
+  margin-bottom: 30px;
+}
+
+.margin-35-b {
+  margin-bottom: 35px;
+}
+
+.margin-40-b {
+  margin-bottom: 40px;
+}
+
+.margin-45-b {
+  margin-bottom: 45px;
+}
+
+.margin-50-b {
+  margin-bottom: 50px;
+}
+
+/*
+	LOOK AND FEEL
+*/
+.red {
+  color: red;
+}
+
+/*# sourceMappingURL=helpers.css.map */
