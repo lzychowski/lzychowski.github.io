@@ -52,13 +52,13 @@ header {
 
 		@keyframes roll {
 			0% {
-				transform: rotate(0);
+				transform: rotate(0deg);
 			}
 			25% {
 				transform: rotate(7deg);
 			}
 			50% {
-				transform: rotate(0);
+				transform: rotate(0deg);
 			}
 			75% {
 				transform: rotate(-7deg);
@@ -223,6 +223,7 @@ main {
 		color: #000;
 		background-color: #F8FBC6;
 		padding: 1px 5px;
+		border-radius: 5px;
 	}
 
 	section {
