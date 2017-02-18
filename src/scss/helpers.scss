@@ -48,14 +48,6 @@ $repeatable-slugs: $pad $l, $pad $r, $pad $t, $pad $b, $mar $l, $mar $r, $mar $t
 
 @include repeat-unit-classes-map($repeatable-slugs, 0, 10, px, 5);
 
-/*
-	LOOK AND FEEL
-*/
-
-.red {
-	color: red;
-}
-
 
 
 
