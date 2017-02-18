@@ -1,15 +1,4 @@
 /*
-	LOOK AND FEEL
-*/
-.red {
-  color: red;
-}
-
-.font-110 {
-  font-size: 110%;
-}
-
-/*
 	STRUCTURAL
 */
 body {
@@ -234,6 +223,17 @@ main a:hover {
 .copyright {
   font: 75% Open Sans, sans-serif;
   margin: 10px 0 10px 0;
+}
+
+/*
+	LOOK AND FEEL
+*/
+.red {
+  color: red;
+}
+
+.font-110 {
+  font-size: 110%;
 }
 
 /*# sourceMappingURL=styles.css.map */

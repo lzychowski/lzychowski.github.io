@@ -14,18 +14,6 @@ $break-medium: 620px;
 // ARTICLE LINK BLACK
 
 /*
-	LOOK AND FEEL
-*/
-
-.red {
-	color: red;
-}
-
-.font-110 {
-	font-size: 110%;
-}
-
-/*
 	STRUCTURAL
 */
 
@@ -293,4 +281,16 @@ main {
 .copyright {
 	font: 75% $font-article-title;
 	margin: 10px 0 10px 0;
+}
+
+/*
+	LOOK AND FEEL
+*/
+
+.red {
+	color: red;
+}
+
+.font-110 {
+	font-size: 110%;
 }
