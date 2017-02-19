@@ -46,23 +46,6 @@ header {
 header div:first-child {
   /* ANIMATION */
 }
-@keyframes roll {
-  0% {
-    transform: rotate(0deg);
-  }
-  25% {
-    transform: rotate(7deg);
-  }
-  50% {
-    transform: rotate(0);
-  }
-  75% {
-    transform: rotate(-7deg);
-  }
-  100% {
-    transform: rotate(0deg);
-  }
-}
 @media screen and (max-width: 620px) {
   header div:first-child {
     margin: 0 auto;
@@ -178,7 +161,7 @@ main a:hover {
 }
 .article-container .highlighter-rouge {
   color: #000;
-  background-color: #F8FBC6;
+  background-color: #FFF;
   padding: 1px 5px;
   border-radius: 5px;
 }

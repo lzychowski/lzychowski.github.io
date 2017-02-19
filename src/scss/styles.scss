@@ -2,6 +2,8 @@ $font-page-title: Titillium Web, sans-serif;
 $font-article-title: Open Sans, sans-serif;
 $color-page-title: #FFF;
 $color-logo: #E00A0A;
+$color-code-yellow: #F8FBC6;
+$color-code-white: #FFF;
 
 $break-medium-large-text: 575px;
 $break-medium: 620px;
@@ -49,24 +51,6 @@ header {
 	div:first-child{
 
 		/* ANIMATION */
-
-		@keyframes roll {
-			0% {
-				transform: rotate(0deg);
-			}
-			25% {
-				transform: rotate(7deg);
-			}
-			50% {
-				transform: rotate(0deg);
-			}
-			75% {
-				transform: rotate(-7deg);
-			}
-			100% {
-				transform: rotate(0deg);
-			}
-		}
 
 		@media screen and (max-width: $break-medium){
 			margin: 0 auto;
@@ -221,7 +205,7 @@ main {
 
 	.highlighter-rouge {
 		color: #000;
-		background-color: #F8FBC6;
+		background-color: $color-code-white;
 		padding: 1px 5px;
 		border-radius: 5px;
 	}

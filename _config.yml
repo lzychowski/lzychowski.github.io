@@ -1,6 +1,6 @@
 # Conversion
 markdown: kramdown
-# highlighter: pygments
+# highlighter: rouge
 kramdown:
    input: GFM
    syntax_highlighter: rouge
