@@ -244,8 +244,6 @@ We have replaced `#{$value}` with `#{str-slice($value, 0, 1)}` by slicing off al
 	padding-left: 5px;
 }
 
-// hidden
-
 .margin-5-t {
 	margin-top: 5px;
 }
@@ -357,8 +355,6 @@ The resulting CSS looks like this:
 .padding-5-l {
 	padding-left: 5px;
 }
-
-// hidden
 
 /* margin top */
 
