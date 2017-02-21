@@ -254,7 +254,7 @@ We have replaced `#{$value}` with `#{str-slice($value, 0, 1)}` by slicing off al
     
 ## Mixins and reusability
 
-Final step is to convert this loop into a reusable code and replace hardcoded values.  In order to accomplish this we will wrap our loop structure into a `@mixin` that will accept our map of keys and values as well as values used in the loop control structure.
+Final step is to convert this loop into reusable code and replace hardcoded values.  In order to accomplish this we will wrap our loop structure into a `@mixin` that will accept our map of keys and values as well as values used in the loop control structure.
 
 First thought would be to use a `@function`, but in SCSS the purpose of a `@function` is to return a value and not to hold logic.  `@mixin` is a reusable block of SCSS that takes arguments like a function and can contain control structures as well as CSS rules and other mixins.  
 
