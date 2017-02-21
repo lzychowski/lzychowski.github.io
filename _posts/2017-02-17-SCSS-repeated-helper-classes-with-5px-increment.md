@@ -13,8 +13,6 @@ One of the things I begin every front-end project with is a setup of basic CSS a
 For example:
 
 ``` css
-...
-
 .padding-0-left {
 	padding-left: 0;
 }
@@ -26,8 +24,6 @@ For example:
 .padding-10-left {
 	padding-left: 10px;
 }
-
-...
 ```
 
 After a while this list can grow and can be hard to maintain if any changes need to be made.  At some point in time you might be required to modify the name pattern or even adjust the value by 1 unit.  The direction I chose was using SCSS to generate all my classes from variables and lists.
@@ -37,13 +33,11 @@ After a while this list can grow and can be hard to maintain if any changes need
 First step was to create a simple loop that would output multiple classes with the following format:
 
 ``` scss
-
 @for $i from 0 to 10 {
 	.padding-#{$i}-left {
 		padding-left: $i + px;
 	}
 }
-
 ```
 
 The `@for` loop syntax is `@for $index from $starting_value to $ending_value { ... }` and as used above it generates:
