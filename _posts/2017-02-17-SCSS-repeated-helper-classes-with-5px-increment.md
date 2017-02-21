@@ -8,7 +8,7 @@ path: 2017-02-17-SCSS-repeated-helper-classes-with-5px-increment.md
 
 ## Introduction
 
-One of the things I begin every front-end project with is a setup of basic CSS and various reusable helper classes.  Today I went back to clean up few different inline CSS styles and replaced them with classes.  One of most widely used helper CSS properties are `padding` and `margin`.  Given that the values for those properties can range based on the layout, it is almost inevitable that at some point in time you will have a class for every direction and size.
+One of the things I begin every front-end project with is the setup of basic CSS and various reusable helper classes.  Today I went back to clean up few different inline CSS styles and replaced them with classes.  One of most widely used helper CSS properties are `padding` and `margin`.  Given that the values for those properties can range based on the layout, it is almost inevitable that at some point in time you will have a class for every direction and size.
   
 For example:
 
