@@ -370,5 +370,3 @@ The resulting CSS looks like this:
 	margin-top: 5px;
 }
 ```
-
-This concludes this tutorial in which we learned about SCSS variables, 
