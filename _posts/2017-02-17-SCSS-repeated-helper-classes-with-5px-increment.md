@@ -341,14 +341,11 @@ Inside of the mixin we proceed to replace target list in the `@each` loop, bound
 We can tweak this mixin further by adding a default for the `$increment` parameter.  We will set the default increment to `1` and make it the last parameter of the mixin.  Parameters with default are considered optional and must be placed after required parameters.
 
 ``` scss
-...
-
 
 @mixin repeat-unit-classes-map($name-map, $start, $end, $unit, $increment: 1){
 	// logic
 }
 
-...
 ```
 
 ## Conclusion
