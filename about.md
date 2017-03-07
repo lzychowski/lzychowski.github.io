@@ -19,17 +19,17 @@ I have experienced the power of cloud computing, JavaScript, Node.js, TypeScript
 
 My recent hobbies include game development (Android, Unity), 3D graphic design (3D Studio Max), tablet drawing, video and audio production, and playing with my Oculus Rift VR headset.
 
-## Software
+# Software
 ***
 Dungeon Saga Treasure Chest – Android Game Utility Application (Java)  
 https://play.google.com/store/apps/details?id=com.yolonerds.dstreasurechest
 
-## Blog
+# Blog
 ***
 Coding, technology, and gaming blog started in 2016  
 http://yolonerds.com/
 
-## Qualifications and Skills
+# Qualifications and Skills
 ***
 - 26 years of experience playing PC games including alpha and beta testing AAA games
 - 13 years of graphic design, web design, and web development experience using technologies such as HTML, CSS, SCSS, and Bootstrap
@@ -42,7 +42,7 @@ http://yolonerds.com/
 - Knowledgeable about computer hardware architecture
 - Experience using tools and platforms such as Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
 
-## Education
+# Education
 ***
 Master of Computer Science with focus on Software Engineering  
 University of Illinois at Springfield, Springfield, IL  
@@ -52,9 +52,13 @@ Bachelor of Computer Science with focus on Software Engineering
 University of Illinois at Springfield, Springfield, IL  
 06/2014 – 08/2016
 
-## Work History
+# Work History
 ***
+
+Below you can see what I have been doing professionally over the last decade.
+
 ### Application Development Manager / Lead Front-End Engineer
+***
 Omeda Communications, previously Hallmark Data Systems, Northbrook, IL  
 11/2015 – Present
 
@@ -68,6 +72,7 @@ On average I spend 75% of my time coding, architecting, and designing and 25% of
 
 
 ### Front-End Development Team Lead
+***
 Hallmark Data Systems, Skokie, IL  
 08/2014 – 11/2015
 
@@ -79,6 +84,7 @@ As a team lead I worked closely with stakeholders, business owners, mid-level ma
 On average I spent 80% of my time coding, architecting, and designing and 20% of my time managing teams and projects.
 
 ### Senior Front-End Web Developer
+***
 Hallmark Data Systems, Skokie, IL  
 06/2013 – 08/2014
 
@@ -87,6 +93,7 @@ Part of my day to day activities included working with product owners and projec
 
 
 ### UI Designer
+***
 Hallmark Data Systems, Skokie, IL  
 02/2012 – 06/2013
 
@@ -95,6 +102,7 @@ My main objective for this position was to apply my current design and front-end
 During my time as the UI Designer I have successfully standardized Hallmark's front-end web applications by implementing Marionette.js and Backbone.js frameworks on top of the existing JavaScript codebase.
 
 ### ISP Analyst
+***
 Hallmark Data Systems, Skokie, IL  
 01/2009 – 02/2012
 
@@ -105,6 +113,7 @@ I designed and built various reports based on my findings.  The technology I use
 Over time my duties grew to include UX and UI design as well as QA tasks for Hallmark's upcoming email system.
 
 ### Email Specialist
+***
 Hallmark Data Systems, Skokie, IL  
 01/2007 – 01/2009
 
@@ -113,6 +122,7 @@ I began working at Hallmark as an Email Specialist, a position that put me in ch
 Design services ranged from full email design to troubleshooting rendering issues across different email clients.  In spare time I researched email marketing techniques in order to provide our clients with the best possible ESP service.
 
 ### President and Insurance Producer
+***
 Xterra Financial Services, Wood Dale, IL  
 01/2006 – 01/2007
 
@@ -121,6 +131,7 @@ Xterra was a family business my sister and I opened in 2006.  As the president I
 My other responsibilities were the design of marketing materials for Xterra and maintenance of office technology.
 
 ### Freelance Graphic Designer/PC Technician
+***
 Self-Employed, Wood Dale, IL  
 08/2002 – 01/2007
 
