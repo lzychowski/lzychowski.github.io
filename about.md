@@ -14,7 +14,7 @@ path: about.md
 <a href="https://twitter.com/yolonerds" data-toggle="tooltip" title="Visit us on twitter" class="red margin-5-l"><i class="fa fa-twitter fa-2"></i></a> [Twitter](https://twitter.com/yolonerds)  
 <a href="https://github.com/lzychowski" data-toggle="tooltip" title="Visit us on GitHub"  class="red margin-5-l"><i class="fa fa-github-alt fa-2"></i></a> [GitHub](https://github.com/lzychowski)  
 <a href="https://www.linkedin.com/in/leszek-zychowski" data-toggle="tooltip" title="Visit me on LinkedIn" class="red margin-5-l"><i class="fa fa-linkedin-square fa-2"></i></a> [LinkedIn](https://www.linkedin.com/in/leszek-zychowski)  
-<a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)
+<a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)  
 <a href="https://steamcommunity.com/profiles/76561197994868931" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 1](https://steamcommunity.com/profiles/76561197994868931)  
 <a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)  
 
