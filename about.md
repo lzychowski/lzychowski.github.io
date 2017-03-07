@@ -15,8 +15,8 @@ path: about.md
 <a href="https://github.com/lzychowski" data-toggle="tooltip" title="Visit us on GitHub"  class="red margin-5-l"><i class="fa fa-github-alt fa-2"></i></a> [GitHub](https://github.com/lzychowski)  
 <a href="https://www.linkedin.com/in/leszek-zychowski" data-toggle="tooltip" title="Visit me on LinkedIn" class="red margin-5-l"><i class="fa fa-linkedin-square fa-2"></i></a> [LinkedIn](https://www.linkedin.com/in/leszek-zychowski)  
 <a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)
-<a href="https://steamcommunity.com/profiles/76561197994868931" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 1](https://steamcommunity.com/profiles/76561197994868931)
-<a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)
+<a href="https://steamcommunity.com/profiles/76561197994868931" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 1](https://steamcommunity.com/profiles/76561197994868931)  
+<a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)  
 
 I am a PC gamer, seasoned full stack engineer, and a leader with experience ranging from graphic design all the way to project management. Over the last 13 years I have explored every nook and cranny of the software development world. The best part is that there is always more to learn.
 
@@ -49,13 +49,13 @@ Coding, technology, and gaming blog started in 2016
 
 # Education
 ***
-Master of Computer Science with focus on Software Engineering  
-University of Illinois at Springfield, Springfield, IL  
-06/2016 – 05/2018
+**Master of Computer Science with focus on Software Engineering**  
+*University of Illinois at Springfield, Springfield, IL*  
+*06/2016 – 05/2018*
 
-Bachelor of Computer Science with focus on Software Engineering  
-University of Illinois at Springfield, Springfield, IL  
-06/2014 – 08/2016
+**Bachelor of Computer Science with focus on Software Engineering**  
+*University of Illinois at Springfield, Springfield, IL*  
+*06/2014 – 08/2016*
 
 # Work History
 ***
@@ -64,8 +64,8 @@ Below you can see what I have been doing professionally over the last decade.
 
 ### Application Development Manager / Lead Front-End Engineer
 ***
-Omeda Communications, previously Hallmark Data Systems, Northbrook, IL  
-11/2015 – Present
+**Omeda Communications, previously Hallmark Data Systems, Northbrook, IL**  
+*11/2015 – Present*
 
 There are some projects that developers are scared of.  This can be due to the lack of documentation, high complexity, or mix and match of technologies that make it hard to understand.  I found myself to be the go to person for reverse engineering projects like this.  From extremely abstract JavaScript and C# frameworks to outdated authentication modules, I am the person that can figure them out.
 
@@ -78,8 +78,8 @@ On average I spend 75% of my time coding, architecting, and designing and 25% of
 
 ### Front-End Development Team Lead
 ***
-Hallmark Data Systems, Skokie, IL  
-08/2014 – 11/2015
+**Hallmark Data Systems, Skokie, IL**  
+*08/2014 – 11/2015*
 
 I was a manager to a team of front-end designers and developers and an interim development manager to a team of back-end developers. In addition to employee management tasks I spent majority of my time researching, architecting, and implementing C#, JavaScript, and TypeScript solutions.
 
@@ -90,8 +90,8 @@ On average I spent 80% of my time coding, architecting, and designing and 20% of
 
 ### Senior Front-End Web Developer
 ***
-Hallmark Data Systems, Skokie, IL  
-06/2013 – 08/2014
+**Hallmark Data Systems, Skokie, IL**  
+*06/2013 – 08/2014*
 
 As a senior developer I was overseeing all of the front-end design and development taking place at Hallmark.  My primary responsibility was the creation and maintenance of complex JavaScript frameworks across multiple projects.  In addition to that I researched, prototyped, and documented various front-end technologies and standards.
 Part of my day to day activities included working with product owners and project managers in an agile environment.  I played a big role in a successful adoption of agile methodologies at Hallmark. I also created acceptance criteria and user stories while managing the on time delivery of features.
@@ -99,8 +99,8 @@ Part of my day to day activities included working with product owners and projec
 
 ### UI Designer
 ***
-Hallmark Data Systems, Skokie, IL  
-02/2012 – 06/2013
+**Hallmark Data Systems, Skokie, IL**  
+*02/2012 – 06/2013*
 
 My main objective for this position was to apply my current design and front-end development experience to help Hallmark take over a project from an outside vendor, Reach Creative.  I have worked with Reach for about 6 months while this transition was in progress.  I began with UI design and acted as the QA/QC for all of the work delivered by Reach.  After the transition was over I became the main front-end developer for this and several other projects.
 
@@ -108,8 +108,8 @@ During my time as the UI Designer I have successfully standardized Hallmark's fr
 
 ### ISP Analyst
 ***
-Hallmark Data Systems, Skokie, IL  
-01/2009 – 02/2012
+**Hallmark Data Systems, Skokie, IL**  
+*01/2009 – 02/2012*
 
 As an ISP Analyst in addition to Email Specialist responsibilities (see previous position) I was tasked with research in topics of email deliverability, subscriber list hygiene, and email marketing.  I worked closely with our clients, domain admins, anti-spam organizations, and ISPs to help our clients with email deliverability best practices.
 
@@ -119,8 +119,8 @@ Over time my duties grew to include UX and UI design as well as QA tasks for Hal
 
 ### Email Specialist
 ***
-Hallmark Data Systems, Skokie, IL  
-01/2007 – 01/2009
+**Hallmark Data Systems, Skokie, IL**  
+*01/2007 – 01/2009*
 
 I began working at Hallmark as an Email Specialist, a position that put me in charge of Stormpost email system and IronPort MTAs.  My responsibilities included managing a web based email system, scheduling email blasts, maintaining subscriber lists, designing email creative, and training clients (on site and off site).
 
@@ -128,8 +128,8 @@ Design services ranged from full email design to troubleshooting rendering issue
 
 ### President and Insurance Producer
 ***
-Xterra Financial Services, Wood Dale, IL  
-01/2006 – 01/2007
+**Xterra Financial Services, Wood Dale, IL**  
+*01/2006 – 01/2007*
 
 Xterra was a family business my sister and I opened in 2006.  As the president I was responsible for the maintenance of business and insurance licenses, contracts, and day to day business operations.  I was a notary public and I was licensed by the State of Illinois to be able to produce Casualty and Fire insurance.
 
@@ -137,8 +137,8 @@ My other responsibilities were the design of marketing materials for Xterra and 
 
 ### Freelance Graphic Designer/PC Technician
 ***
-Self-Employed, Wood Dale, IL  
-08/2002 – 01/2007
+**Self-Employed, Wood Dale, IL**  
+*08/2002 – 01/2007*
 
 I started working on websites and computer graphics during my sophomore year in St. Patrick High School. By the end of the year I was the unofficial webmaster for the school and was responsible for most of the school’s design work.
 
