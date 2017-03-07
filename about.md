@@ -1,12 +1,13 @@
 ---
 title: About YOLOnerds
 author: Leszek Zychowski
-layout: post
+layout: about
 permalink: /about
 path: about.md
 ---
 
 # Leszek Zychowski
+***
 <a href="https://twitter.com/yolonerds" data-toggle="tooltip" title="Visit us on twitter" class="red margin-5-l"><i class="fa fa-twitter fa-2"></i></a> https://twitter.com/yolonerds  
 <a href="https://github.com/lzychowski" data-toggle="tooltip" title="Visit us on GitHub"  class="red margin-5-l"><i class="fa fa-github-alt fa-2"></i></a> https://github.com/lzychowski  
 <a href="https://www.linkedin.com/in/leszek-zychowski" data-toggle="tooltip" title="Visit me on LinkedIn" class="red margin-5-l"><i class="fa fa-linkedin-square fa-2"></i></a> https://www.linkedin.com/in/leszek-zychowski  
@@ -19,16 +20,17 @@ I have experienced the power of cloud computing, JavaScript, Node.js, TypeScript
 My recent hobbies include game development (Android, Unity), 3D graphic design (3D Studio Max), tablet drawing, video and audio production, and playing with my Oculus Rift VR headset.
 
 ## Software
-
+***
 Dungeon Saga Treasure Chest – Android Game Utility Application (Java)  
 https://play.google.com/store/apps/details?id=com.yolonerds.dstreasurechest
 
 ## Blog
-
+***
 Coding, technology, and gaming blog started in 2016  
 http://yolonerds.com/
 
 ## Qualifications and Skills
+***
 - 26 years of experience playing PC games including alpha and beta testing AAA games
 - 13 years of graphic design, web design, and web development experience using technologies such as HTML, CSS, SCSS, and Bootstrap
 - 6 years of combined experience in object oriented development using C#, Java, C++, and related frameworks
@@ -41,6 +43,7 @@ http://yolonerds.com/
 - Experience using tools and platforms such as Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
 
 ## Education
+***
 Master of Computer Science with focus on Software Engineering  
 University of Illinois at Springfield, Springfield, IL  
 06/2016 – 05/2018
@@ -50,7 +53,7 @@ University of Illinois at Springfield, Springfield, IL
 06/2014 – 08/2016
 
 ## Work History
-
+***
 ### Application Development Manager / Lead Front-End Engineer
 Omeda Communications, previously Hallmark Data Systems, Northbrook, IL  
 11/2015 – Present
