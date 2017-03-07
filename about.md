@@ -8,10 +8,15 @@ path: about.md
 
 # Leszek Zychowski
 ***
+
+[![Leszek Zychowski - YOLOnerds](/assets/images/about_yolonerds.jpg)](/assets/images/about_yolonerds.jpg)
+
 <a href="https://twitter.com/yolonerds" data-toggle="tooltip" title="Visit us on twitter" class="red margin-5-l"><i class="fa fa-twitter fa-2"></i></a> [Twitter](https://twitter.com/yolonerds)  
 <a href="https://github.com/lzychowski" data-toggle="tooltip" title="Visit us on GitHub"  class="red margin-5-l"><i class="fa fa-github-alt fa-2"></i></a> [GitHub](https://github.com/lzychowski)  
 <a href="https://www.linkedin.com/in/leszek-zychowski" data-toggle="tooltip" title="Visit me on LinkedIn" class="red margin-5-l"><i class="fa fa-linkedin-square fa-2"></i></a> [LinkedIn](https://www.linkedin.com/in/leszek-zychowski)  
-<a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)  
+<a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)
+<a href="https://steamcommunity.com/profiles/76561197994868931" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 1](https://steamcommunity.com/profiles/76561197994868931)
+<a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)
 
 I am a PC gamer, seasoned full stack engineer, and a leader with experience ranging from graphic design all the way to project management. Over the last 13 years I have explored every nook and cranny of the software development world. The best part is that there is always more to learn.
 
@@ -22,12 +27,12 @@ My recent hobbies include game development (Android, Unity), 3D graphic design (
 # Software
 ***
 Dungeon Saga Treasure Chest – Android Game Utility Application (Java)  
-https://play.google.com/store/apps/details?id=com.yolonerds.dstreasurechest
+[Google Play Store](https://play.google.com/store/apps/details?id=com.yolonerds.dstreasurechest)
 
 # Blog
 ***
 Coding, technology, and gaming blog started in 2016  
-http://yolonerds.com/
+[YOLOnerds.com](http://yolonerds.com/)
 
 # Qualifications and Skills
 ***
