@@ -150,6 +150,10 @@ main a:hover {
   border-bottom: 1px solid #E00A0A;
 }
 
+.article-container.about p {
+  padding-left: 10px;
+}
+
 .article-container {
   padding: 0 30px 0 30px;
 }
