@@ -1,7 +1,7 @@
 ---
 title: About YOLOnerds
 author: Leszek Zychowski
-layout: default
+layout: post
 permalink: /about
 path: about.md
 ---
