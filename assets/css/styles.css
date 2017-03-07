@@ -110,6 +110,7 @@ main {
   padding: 10px;
   background-color: rgba(31, 31, 31, 0.85);
   color: #fff;
+  border-radius: 4px;
 }
 main code {
   color: black;
