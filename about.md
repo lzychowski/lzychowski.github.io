@@ -26,7 +26,7 @@ My recent hobbies include game development (Android, Unity), 3D graphic design (
 
 [Warcraft Characters](http://us.battle.net/wow/en/guild/burning-blade/Killarmy/roster)  
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
-[My NOOB LOL Summoner](http://www.lolking.net/summoner/na/66729407/Leszek)
+[My NOOB LOL Summoner](http://lolprofile.net/summoner/na/Leszek#update)
 
 # Software
 ***
