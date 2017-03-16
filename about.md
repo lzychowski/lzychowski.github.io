@@ -47,8 +47,9 @@ Coding, technology, and gaming blog started in 2016
 - 4 years of combined experience in C, Perl, VB, Assembly, and ActionScript
 - 8 years of combined experience in using MS SQL, MySQL, noSQL, and SSRS
 - 1 year of experience working with Microsoft Azure and Amazon AWS
-- Experienced in setting up and running servers, operating systems, and networks
-- Knowledgeable about computer hardware architecture
+- Experience working with parallel programming APIs such as C++ MPI and OpenMP as well as Java Fork & Join
+- Experience in building desktop applications using Visual C# and Chromium Embedded Framework (CEF)
+- Knowledgeable about computer hardware architecture and networking
 - Experience using tools and platforms such as Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
 
 # Education
