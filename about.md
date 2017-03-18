@@ -28,15 +28,17 @@ My recent hobbies include game development (Android, Unity), 3D graphic design (
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
 [My NOOB LOL Summoner](http://lolprofile.net/summoner/na/Leszek#update)
 
-<div class="row">
-    <div class="col-4">
-        <div id="container1"></div>
-    </div>
-    <div class="col-4">
-        <div id="container2"></div>
-    </div>
-    <div class="col-4">
-        <div id="container3"></div>
+<div style="display:none;">
+    <div class="row">
+        <div class="col-4">
+            <div id="container1"></div>
+        </div>
+        <div class="col-4">
+            <div id="container2"></div>
+        </div>
+        <div class="col-4">
+            <div id="container3"></div>
+        </div>
     </div>
 </div>
 

@@ -282,7 +282,7 @@ Highcharts.chart('container2', {
 		name: 'Brands',
 		colorByPoint: true,
 		data: [{
-			name: 'JavaScript',
+			name: 'JS',
 			y: 30.00
 		}, {
 			name: 'C#',
@@ -291,7 +291,7 @@ Highcharts.chart('container2', {
 			name: 'Java',
 			y: 20.00
 		}, {
-			name: 'TypeScript',
+			name: 'TS',
 			y: 15.00
 		}, {
 			name: 'C++',
