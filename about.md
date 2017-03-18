@@ -28,28 +28,7 @@ My recent hobbies include game development (Android, Unity), 3D graphic design (
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
 [My NOOB LOL Summoner](http://lolprofile.net/summoner/na/Leszek#update)
 
-<div class="ct-chart ct-perfect-fourth"></div>
-
-<script>
-new Chartist.Pie('.ct-chart', {
-  series: [{
-    value: 20,
-    name: 'Series 1',
-    className: 'my-custom-class-one',
-    meta: 'Meta One'
-  }, {
-    value: 10,
-    name: 'Series 2',
-    className: 'my-custom-class-two',
-    meta: 'Meta Two'
-  }, {
-    value: 70,
-    name: 'Series 3',
-    className: 'my-custom-class-three',
-    meta: 'Meta Three'
-  }]
-});
- </script>
+<div id="container"></div>
 
 # Software
 ***
