@@ -229,9 +229,7 @@ Highcharts.chart('container1', {
         colorByPoint: true,
         data: [{
             name: 'JavaScript',
-            y: 30.00,
-            sliced: true,
-            selected: true
+            y: 30.00
         }, {
             name: 'C#',
             y: 20.00
@@ -285,9 +283,7 @@ Highcharts.chart('container2', {
 		colorByPoint: true,
 		data: [{
 			name: 'JavaScript',
-			y: 30.00,
-			sliced: true,
-			selected: true
+			y: 30.00
 		}, {
 			name: 'C#',
 			y: 20.00
@@ -341,9 +337,7 @@ Highcharts.chart('container3', {
 		colorByPoint: true,
 		data: [{
 			name: 'JavaScript',
-			y: 30.00,
-			sliced: true,
-			selected: true
+			y: 30.00
 		}, {
 			name: 'C#',
 			y: 20.00
