@@ -1,6 +1,10 @@
 /*
 	STRUCTURAL
 */
+* {
+  box-sizing: border-box;
+}
+
 body {
   background: #578449;
   background-image: url("../images/bg1.png");

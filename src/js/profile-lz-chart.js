@@ -197,7 +197,7 @@ Highcharts.theme = {
 // Apply the theme
 Highcharts.setOptions(Highcharts.theme);
 
-Highcharts.chart('container', {
+Highcharts.chart('container1', {
     credits: false,
     chart: {
         plotBackgroundColor: null,
@@ -251,4 +251,116 @@ Highcharts.chart('container', {
         size: '80%',
         innerSize: '80%',
     }]
+});
+
+Highcharts.chart('container2', {
+	credits: false,
+	chart: {
+		plotBackgroundColor: null,
+		plotBorderWidth: null,
+		plotShadow: false,
+		type: 'pie'
+	},
+	title: {
+		text: 'Languages'
+	},
+	tooltip: {
+		pointFormat: '{series.name}'
+	},
+	plotOptions: {
+		pie: {
+			allowPointSelect: true,
+			cursor: 'pointer',
+			dataLabels: {
+				enabled: true,
+				format: '<b>{point.name}</b>',
+				style: {
+					color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+				}
+			}
+		}
+	},
+	series: [{
+		name: 'Brands',
+		colorByPoint: true,
+		data: [{
+			name: 'JavaScript',
+			y: 30.00,
+			sliced: true,
+			selected: true
+		}, {
+			name: 'C#',
+			y: 20.00
+		}, {
+			name: 'Java',
+			y: 20.00
+		}, {
+			name: 'TypeScript',
+			y: 15.00
+		}, {
+			name: 'C++',
+			y: 10.00
+		}, {
+			name: 'C, Perl, Lisp, Assembly etc.',
+			y: 5.0
+		}],
+		size: '80%',
+		innerSize: '80%',
+	}]
+});
+
+Highcharts.chart('container3', {
+	credits: false,
+	chart: {
+		plotBackgroundColor: null,
+		plotBorderWidth: null,
+		plotShadow: false,
+		type: 'pie'
+	},
+	title: {
+		text: 'Languages'
+	},
+	tooltip: {
+		pointFormat: '{series.name}'
+	},
+	plotOptions: {
+		pie: {
+			allowPointSelect: true,
+			cursor: 'pointer',
+			dataLabels: {
+				enabled: true,
+				format: '<b>{point.name}</b>',
+				style: {
+					color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+				}
+			}
+		}
+	},
+	series: [{
+		name: 'Brands',
+		colorByPoint: true,
+		data: [{
+			name: 'JavaScript',
+			y: 30.00,
+			sliced: true,
+			selected: true
+		}, {
+			name: 'C#',
+			y: 20.00
+		}, {
+			name: 'Java',
+			y: 20.00
+		}, {
+			name: 'TypeScript',
+			y: 15.00
+		}, {
+			name: 'C++',
+			y: 10.00
+		}, {
+			name: 'C, Perl, Lisp, Assembly etc.',
+			y: 5.0
+		}],
+		size: '80%',
+		innerSize: '80%',
+	}]
 });
