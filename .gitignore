@@ -4,4 +4,4 @@ node_modules/
 
 
 # User-specific
-.idea/
+.idea/*
