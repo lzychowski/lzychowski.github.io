@@ -1,6 +1,15 @@
+title: 'YOLOnerds'
+url: "http://yolonerds.com"
+twitter_username: yolonerds
+github_username:  lzychowski
+
 # Conversion
 markdown: kramdown
-# highlighter: rouge
+
+# Files
+exclude: ['node_modules']
+
+# Highlighter: rouge
 kramdown:
    input: GFM
    syntax_highlighter: rouge
@@ -10,6 +19,7 @@ host: http://yolonerds.com
 
 # Paging
 paginate: 10
+paginate_path: "/page:num/"
 
-# gems
+# Gems
 gems: [jekyll-paginate]
