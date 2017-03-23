@@ -59,14 +59,14 @@ Coding, technology, and gaming blog started in 2016
 - 26 years of experience playing PC games including alpha and beta testing AAA games
 - 13 years of graphic design, web design, and web development experience using technologies such as HTML, CSS, SCSS, and Bootstrap
 - 6 years of combined experience in object oriented development using C#, Java, C++, and related frameworks
-- 5 years of combined experience in JavaScript, TypeScript, and various libraries and frameworks such as AngularJS 1&2, Backbone, Marionette, and jQuery
+- 6 years of combined experience in JavaScript, TypeScript, and various libraries and frameworks such as AngularJS 1&2, Backbone, Marionette, and jQuery
 - 4 years of combined experience in C, Perl, VB, Assembly, and ActionScript
 - 8 years of combined experience in using MS SQL, MySQL, noSQL, and SSRS
-- 1 year of experience working with Microsoft Azure and Amazon AWS
+- 1.5 year of experience working with Microsoft Azure and Amazon AWS
 - Experience working with parallel programming APIs such as C++ MPI and OpenMP as well as Java Fork & Join
 - Experience in building desktop applications using Visual C# and Chromium Embedded Framework (CEF)
 - Knowledgeable about computer hardware architecture and networking
-- Experience using tools and platforms such as Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
+- Experience using tools and platforms such as NPM, Babel, Gulp, Grunt, Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
 
 # Education
 ***
