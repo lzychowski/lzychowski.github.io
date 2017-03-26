@@ -24,7 +24,8 @@ I have experienced the power of cloud computing, JavaScript, Node.js, TypeScript
 
 My recent hobbies include game development (Android, Unity), 3D graphic design (3D Studio Max), tablet drawing, video and audio production, and playing with my Oculus Rift VR headset.
 
-[Warcraft Characters](http://us.battle.net/wow/en/guild/burning-blade/Killarmy/roster)  
+[Warcraft Characters - Horde](http://us.battle.net/wow/en/guild/burning-blade/Killarmy/roster)  
+[Warcraft Characters - Alliance](http://us.battle.net/wow/en/guild/skullcrusher/Killarmy/roster)
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
 [My NOOB LOL Summoner](http://lolprofile.net/summoner/na/Leszek#update)
 
