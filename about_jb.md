@@ -25,7 +25,7 @@ I am a Sociology major, future Computer Science graduate, and an avid PC gamer w
 
 # Qualifications and Skills
 ***
-- 15 years of experience playing PC games including alpha and beta testing AAA games
+- 15 years of experience playing PC and console games
 - Experience (hobby) in alpha and beta testing AAA games for various game development companies 
 - Experience (hobby) in programming languages such as HTML, CSS, JavaScript, and Java 
 - Familiarity with concepts of game and software development for PC and mobile platforms 
