@@ -15,7 +15,6 @@ path: about.md
 <a href="https://github.com/lzychowski" data-toggle="tooltip" title="Visit us on GitHub"  class="red margin-5-l"><i class="fa fa-github-alt fa-2"></i></a> [GitHub](https://github.com/lzychowski)  
 <a href="https://www.linkedin.com/in/leszek-zychowski" data-toggle="tooltip" title="Visit me on LinkedIn" class="red margin-5-l"><i class="fa fa-linkedin-square fa-2"></i></a> [LinkedIn](https://www.linkedin.com/in/leszek-zychowski)  
 <a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)  
-<a href="https://steamcommunity.com/profiles/76561197994868931" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 1](https://steamcommunity.com/profiles/76561197994868931)  
 <a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)  
 
 I am a PC gamer, seasoned full stack engineer, and a leader with experience ranging from graphic design all the way to project management. Over the last 13 years I have explored every nook and cranny of the software development world. The best part is that there is always more to learn.
@@ -27,22 +26,6 @@ My recent hobbies include game development (Android, Unity), 3D graphic design (
 [Warcraft Characters](http://us.battle.net/wow/en/guild/burning-blade/Killarmy/roster)  
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
 [My NOOB LOL Summoner](http://lolprofile.net/summoner/na/Leszek#update)
-
-<div style="display:none;">
-    <div class="row">
-        <div class="col-4">
-            <div id="container1"></div>
-        </div>
-        <div class="col-4">
-            <div id="container2"></div>
-        </div>
-        <div class="col-4">
-            <div id="container3"></div>
-        </div>
-    </div>
-</div>
-
-
 
 # Software
 ***
