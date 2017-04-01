@@ -79,7 +79,7 @@ Below you can see what I have been doing professionally over the last decade.
 
 ### U.S Citizenship and Immigration Services Contractor
 ***
-** FCi Federal, Chicago, IL**  
+**FCi Federal, Chicago, IL**  
 *06/2012 – 10/2015*
 
 - Schedule applicants for biometric screenings and interviews using a prescribed computer database 
