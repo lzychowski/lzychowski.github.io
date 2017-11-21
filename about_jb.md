@@ -54,10 +54,17 @@ I am a Sociology major, future Computer Science graduate, and an avid PC gamer w
 
 Below you can see what I have been doing professionally over the last decade.
 
+### Co-Founder
+***
+**YOLOnerds**  
+*12/2016 – Present*
+
+YOLOnerds is a brand new technology/game development startup and a technology blog.  My current focus is on learning technologies such as 3d Studio Max, Photoshop, and Unreal Engine in order to construct a proof of concept for our product.
+
 ### Junior Web Developer
 ***
 **Omeda Communications, previously Hallmark Data Systems, Northbrook, IL**  
-*12/2016 – Present*
+*12/2016 – 04/2017*
 
 - Create and modify custom web forms using HTML, CSS, JavaScript, Java, and Spring MVC 
 - Sync and deploy staging and production web forms code 
