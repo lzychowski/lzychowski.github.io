@@ -17,12 +17,10 @@ path: about.md
 <a href="https://www.instagram.com/yolonerds/" data-toggle="tooltip" title="Visit us on Instagram" class="red margin-5-l"><i class="fa fa-instagram fa-2"></i></a> [Instagram](https://www.instagram.com/yolonerds/)  
 <a href="http://steamcommunity.com/profiles/76561197994912486" data-toggle="tooltip" title="Visit us on Steam" class="red margin-5-l"><i class="fa fa-steam-square fa-2"></i></a> [Steam profile 2](http://steamcommunity.com/profiles/76561197994912486)  
 
-I am a PC gamer, seasoned full stack engineer, and a leader with experience ranging from graphic design all the way to project management. Over the last 13 years I have explored every nook and cranny of the software development world. The best part is that there is always more to learn.
-
-I have experienced the power of cloud computing, JavaScript, Node.js, TypeScript, Java, C#, C++, C, VB, Perl, Lisp, Assembly, 3D modeling, SQL, NoSQL, and many more. Combine that with devops experience, teaching, architecting, agile development, and management and you get a recipe for success.
-
-My recent hobbies include game development (Android, Unity), 3D graphic design (3D Studio Max), tablet drawing, video and audio production, and playing with my Oculus Rift VR headset.
-
+I am a problem solver, seasoned full stack engineer, and a leader with experience ranging from graphic design all the way to project management. Over the last 14 years I have explored every nook and cranny of the software development world. The best part is that there is always more to learn. 
+ 
+I have experienced the power of cloud computing, JavaScript, Node.js, TypeScript, Java, Ruby, C#, C++, C, VB, Perl, Lisp, Assembly, 3D modeling, SQL, NoSQL, and many more. Combine that with devops experience, teaching, architecture, agile development, and management and you get a recipe for success. 
+ 
 [Warcraft Characters - Horde](http://us.battle.net/wow/en/guild/burning-blade/Killarmy/roster)  
 [Warcraft Characters - Alliance](http://us.battle.net/wow/en/guild/skullcrusher/Killarmy/roster)  
 [Diablo 3 Characters](https://us.battle.net/d3/en/profile/maxstone9-1622/hero/78189276)  
@@ -40,17 +38,22 @@ Coding, technology, and gaming blog started in 2016
 
 # Qualifications and Skills
 ***
+
 - 26 years of experience playing PC games including alpha and beta testing AAA games
-- 13 years of graphic design, web design, and web development experience using technologies such as HTML, CSS, SCSS, and Bootstrap
-- 6 years of combined experience in object oriented development using C#, Java, C++, and related frameworks
-- 6 years of combined experience in JavaScript, TypeScript, and various libraries and frameworks such as AngularJS 1&2, Backbone, Marionette, and jQuery
-- 4 years of combined experience in C, Perl, VB, Assembly, and ActionScript
-- 8 years of combined experience in using MS SQL, MySQL, noSQL, and SSRS
-- 1.5 year of experience working with Microsoft Azure and Amazon AWS
+- 3 years of experience managing various development and technology teams across multiple companies
+- 2.5 years of experience working with Amazon AWS and Microsoft Azure including provisioning and management of instances, load balancing, auto scaling, replication, and security
+- 10 years of experience architecting front-end single and multi-page applications
+- 4 years of experience designing scalable web API architectures
+- 6 years of experience in object oriented development using C#, Java, C++, Ruby and related frameworks
+- 7 years of experience in JavaScript, TypeScript, and various libraries and frameworks such as AngularJS 1&2, Backbone, Marionette, and jQuery
+- 4 years of experience in C, C++, Perl, VB, Assembly, and ActionScript
+- 8 years of experience in using MS SQL, MySQL, NoSQL, PostgreSQL, and SSRS
+- 14 years of graphic design, web design, and web development experience using technologies such as HTML, CSS, SCSS, Flash, and Bootstrap
 - Experience working with parallel programming APIs such as C++ MPI and OpenMP as well as Java Fork & Join
 - Experience in building desktop applications using Visual C# and Chromium Embedded Framework (CEF)
-- Knowledgeable about computer hardware architecture and networking
-- Experience using tools and platforms such as NPM, Babel, Gulp, Grunt, Visual Studio, Eclipse, SSMS, IntelliJ, Android Studio, Git, SVN, CVS, Creative Cloud, and many more
+- Experienced in setting up and running servers, operating systems, and networks
+- Knowledgeable about computer hardware architecture
+- Experience using tools and platforms such as Riak, MongoDB, Linux, Hyper-V, Visual Studio, Eclipse, SSMS, Android Studio, Git, SVN, CVS, Creative Cloud, CMake, Grunt, Gulp, Webpack, Bower, NPM, SSMS and many more 
 
 # Education
 ***
@@ -67,6 +70,33 @@ Coding, technology, and gaming blog started in 2016
 ***
 
 Below you can see what I have been doing professionally over the last decade.
+
+### Instructor
+***
+**Northwestern University / Trilogy Educational Services, Evanston, IL**  
+*11/2017 – Present* 
+ 
+Full-stack development instructor.   
+
+### Co-Founder 
+***
+**YOLOnerds**  
+*12/2016 – Present* 
+ 
+Co-founder of a game development startup.   Currently evaluating UnrealEngine, Unity, OpenGL, Vulkan, and SFML. 
+ 
+### Principal Front-End / Full-Stack / DevOps Software Engineer
+***
+**Omeda, Northbrook, IL**  
+ *07/2017 – Present* 
+ 
+I'm passionate about solving problems and architecting scalable web applications.  I am working on several new and existing projects that utilize the following technologies 
+ 
+- cloud computing platforms: AWS, Netlify, and Azure including compute, load balancing, auto scaling, storage, security, and continuous integration
+- languages and frameworks:  HTML, CSS, JavaScript, TypeScript, Angular1, Angular2, Ruby, C# and Sinatra
+- platforms and tools: RedHat, Ubuntu, Thin, Nginx, Node.js, Git, GitHub, Jenkins, Webpack, Gulp, NPM, and Bower 
+- databases: MSSQL and PostgreSQL
+- load testing tools: Flood.io, Blazemeter, Loader.io, Load Impact 
 
 ### Application Development Manager / Lead Front-End Engineer
 ***
