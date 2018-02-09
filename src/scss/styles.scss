@@ -3,6 +3,7 @@ $font-article-title: Open Sans, sans-serif;
 $color-page-title: #FFF;
 $color-logo: #E00A0A;
 $color-code-yellow: #F8FBC6;
+$color-code-blue: #0048c5;
 $color-code-white: #FFF;
 
 $break-medium-large-text: 575px;
@@ -216,8 +217,8 @@ main {
 	padding: 0 30px 0 30px;
 
 	.highlighter-rouge {
-		color: #000;
-		background-color: $color-code-yellow;
+		color: #fff;
+		background-color: $color-code-blue;
 		padding: 1px 5px;
 		border-radius: 5px;
 	}

@@ -169,8 +169,8 @@ main a:hover {
   height: auto;
 }
 .article-container .highlighter-rouge {
-  color: #000;
-  background-color: #F8FBC6;
+  color: #fff;
+  background-color: #0048c5;
   padding: 1px 5px;
   border-radius: 5px;
 }
