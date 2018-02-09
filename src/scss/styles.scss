@@ -4,6 +4,7 @@ $color-page-title: #FFF;
 $color-logo: #E00A0A;
 $color-code-yellow: #F8FBC6;
 $color-code-blue: #0048c5;
+$color-code-green: #578449;
 $color-code-white: #FFF;
 
 $break-medium-large-text: 575px;
@@ -218,7 +219,7 @@ main {
 
 	.highlighter-rouge {
 		color: #fff;
-		background-color: $color-code-blue;
+		background-color: $color-code-green;
 		padding: 1px 5px;
 		border-radius: 5px;
 	}
