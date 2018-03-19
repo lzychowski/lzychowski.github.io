@@ -46,4 +46,4 @@ WantedBy=multi-user.target
 
 5. Save the file via `CTRL + X`, `y`, `Enter`.
 6. Activate the service so it starts after reboots using `systemctl enable mynodejsapp.service`.
-7. Start the service via `service mynodejsapp start` or systemctl start mynodejsapp.service`.
+7. Start the service via `service mynodejsapp start` or `systemctl start mynodejsapp.service`.
