@@ -34,7 +34,7 @@ Dungeon Saga Treasure Chest – Android Game Utility Application (Java)
 # Blog
 ***
 Coding, technology, and gaming blog started in 2016  
-[YOLOnerds.com](http://yolonerds.com/)
+[YOLOnerds.com](https://yolonerds.com/)
 
 # Qualifications and Skills
 ***

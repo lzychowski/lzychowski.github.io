@@ -1,5 +1,5 @@
 title: 'YOLOnerds'
-url: "http://yolonerds.com"
+url: "https://yolonerds.com"
 twitter_username: yolonerds
 github_username:  lzychowski
 
@@ -15,7 +15,7 @@ kramdown:
    syntax_highlighter: rouge
 
 # Serving
-host: http://yolonerds.com
+host: https://yolonerds.com
 
 # Paging
 paginate: 10
