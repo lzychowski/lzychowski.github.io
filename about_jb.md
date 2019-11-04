@@ -33,7 +33,7 @@ I am a recent Computer Science graduate and an avid gamer with a passion for lea
 ***
 **Master of Computer Science**  
 *University of Illinois at Springfield, Springfield, IL*  
-*06/2016 – 05/2019
+*06/2016 – 05/2019*
 
 **Bachelor of Arts in Sociology**  
 *DePaul University, Chicago, IL*  
