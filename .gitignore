@@ -1,6 +1,6 @@
 # Build
 _site/
-node_modules/
+node_modules/*
 
 
 # User-specific
